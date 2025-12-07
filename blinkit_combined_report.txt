@@ -1,0 +1,478 @@
+Blinkit Batch Scrape Report
+Listing target: https://blinkit.com/cn/dairy-breakfast/bread-pav/cid/14/953
+Total listing cards: 30
+Products with names/images/links: 30/18/18
+Products processed: 18
+
+Product #1
+Listing name : The Baker's Dozen Zero Maida Multigrain Sourdough Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/9c5e1653-1be2-491a-8da9-b16832a2f185.png
+Product link : https://blinkit.com/prn/the-bakers-dozen-zero-maida-multigrain-sourdough-bread/prid/547906
+Detail name  : The Baker's Dozen Zero Maida Multigrain Sourdough Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/9c5e1653-1be2-491a-8da9-b16832a2f185.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/3ee3242f-9d20-422b-a567-15d0b4dee889.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/058eab5b-6d1c-41b9-9bbb-01606f9a7ead.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/9e3bcbdd-79c1-4776-9219-083ad791e3b4.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/fc5d0ea3-6d56-4b2c-adc9-17a53399ce0f.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/4e5b4b55-eb85-48a8-a61a-36b4cb883d7e.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/01bd69e9-73da-436b-97bc-4a589df65811.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/d54e24ba-e1aa-4197-b352-3017b5634441.jpg
+  9. https://cdn.grofers.com/da/cms-assets/cms/product/2749ade8-9943-400b-a243-880cd526ef69.jpg
+  10. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 344
+  - Protein Per 100 g (g): 11
+  - Total Carbohydrates Per 100 g (g): 66
+  - Total Sugar Per 100 g (g): 5
+  - Added Sugars Per 100 g (g): 2
+  - Total Fat Per 100 g (g): 4
+  - Saturated Fat Per 100 g (g): 0.4
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 7
+  - Sodium Per 100 g (mg): 250
+
+Product #2
+Listing name : Harvest Gold White Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/9b3e11ab-9a5d-463d-b098-379a04ce5b7e.png
+Product link : https://blinkit.com/prn/harvest-gold-white-bread/prid/23779
+Detail name  : Harvest Gold White Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/72778694-98ad-4921-990b-499604bd369f.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/9ce856af-87d5-430d-bdc8-a0bd2e734c45.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/baf70427-cc53-4a47-a7bf-646e5bf20a4e.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/5e10f532-a2b7-4fda-84e9-f1f13630fd54.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/c5ec6fa7-65bb-4d6b-b571-1fd17806ee62.jpg
+  6. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 247.5
+  - Protein Per 100 g (g): 8
+  - Total Carbohydrates Per 100 g (g): 52.2
+  - Added Sugars Per 100 g (g): 3.2
+  - Total Fat Per 100 g (g): 0.72
+  - Saturated Fat Per 100 g (g): 0.18
+  - Monosaturated Fat Per 100 g (g): 0.17
+  - Polyunsaturated Fat Per 100 g (g): 0.35
+  - Unsaturated Fat Per 100 g (g): 0.52
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 3
+  - Sodium Per 100 g (mg): 492
+
+Product #3
+Listing name : Suchali's Artisan Bakehouse Buttercrust Milk Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/0d2fdea5-5af7-497d-8c09-d2e70dbe66f2.png
+Product link : https://blinkit.com/prn/suchalis-artisan-bakehouse-buttercrust-milk-bread/prid/460626
+Detail name  : Suchali's Artisan Bakehouse Buttercrust Milk Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/20eed0f7-343c-49c7-bffd-042b75136832.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/d5c112ca-afa9-425b-b288-fccb0898bcd2.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/4188166d-c65d-4498-a811-4ab19152c6de.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/8050a0a2-f18a-48b2-9f64-33b86b1f2f2f.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/5e90c8d7-800b-4877-bede-0f2af5424dc9.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/c5f87110-48eb-48d3-b490-1c3b9d876a57.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/291ade74-8762-4cf8-bf49-df01736a28c7.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/348cc8bd-9173-4415-9602-489d19ee67d8.jpg
+  9. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 292.1
+  - Protein Per 100 g (g): 7.6
+  - Total Carbohydrates Per 100 g (g): 44.4
+  - Total Sugar Per 100 g (g): 6.7
+  - Added Sugars Per 100 g (g): 5.2
+  - Total Fat Per 100 g (g): 9.1
+  - Saturated Fat Per 100 g (g): 5.4
+  - Trans Fat Per 100 g (g): 0.3
+  - Dietary Fiber Per 100 g (g): 5.33
+  - Sodium Per 100 g (mg): 366.9
+
+Product #4
+Listing name : Harvest Gold 100% Atta Whole Wheat Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/5b0b324b-9b14-4b97-9aef-c8045b734e95.png
+Product link : https://blinkit.com/prn/harvest-gold-100-atta-whole-wheat-bread/prid/448096
+Detail name  : Harvest Gold 100% Atta Whole Wheat Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/efd68d39-86f9-41cc-8442-b98be20ee317.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/ae4380c9-ce34-48ad-b644-3d557dbfd642.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/8d621423-2ced-42ac-a543-cff18d1f62af.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/1b78ce38-7a07-4fb2-844f-eb0cf1587130.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/2e6588b4-7231-4d69-9aee-47e1872aac43.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/8a4f18ac-88a7-4cfb-b3a2-58f43a584427.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/8f824907-f104-4a6c-bea7-d635eb39978a.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/4bb1c8c3-9b8a-459d-a6ae-fc1590a8fdb5.jpg
+  9. https://cdn.grofers.com/da/cms-assets/cms/product/55e08d7c-99e2-4e05-9a8b-b497a682c72a.jpg
+  10. https://cdn.grofers.com/da/cms-assets/cms/product/93b057cf-d8dc-4fed-ae50-fae049993d05.jpg
+  11. https://cdn.grofers.com/da/cms-assets/cms/product/44e328b1-37b5-4ade-b3d1-da7689967413.jpg
+  12. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 247.07
+  - Protein Per 100 g (g): 10.09
+  - Total Carbohydrates Per 100 g (g): 46.57
+  - Total Sugar Per 100 g (g): 4.78
+  - Added Sugars Per 100 g (g): 3.69
+  - Total Fat Per 100 g (g): 2.27
+  - Saturated Fat Per 100 g (g): 0.34
+  - Unsaturated Fat Per 100 g (g): 1.93
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 6.38
+  - Sodium Per 100 g (mg): 471.23
+
+Product #5
+Listing name : The Baker's Dozen Zero Maida Protein Bread, Whole Wheat
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/2cbe874c-1471-4c08-8db6-7f357f7c2ba4.png
+Product link : https://blinkit.com/prn/the-bakers-dozen-zero-maida-protein-bread-whole-wheat/prid/691733
+Detail name  : The Baker's Dozen Zero Maida Protein Bread, Whole Wheat
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/2cbe874c-1471-4c08-8db6-7f357f7c2ba4.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/4f10dce8-0f86-44cb-a4eb-243537ff5409.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/a789f51f-a0e5-4874-a16a-90f326ec1e98.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/346b4106-8ed6-491a-baf3-146e3dfddabe.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/ee2229a6-a2a6-4a54-b4ac-a8e704e8e6ce.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/25625068-f782-4a14-a901-1b0f978a1908.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/a24e2f1f-1884-4fd4-afd1-021de317814a.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/d9e0c406ad194916a5ddf232b1309448.jpeg
+  9. https://cdn.grofers.com/da/cms-assets/cms/product/6d8790f4737b482c834e2acd96f3629c.jpeg
+  10. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   : <none>
+
+Product #6
+Listing name : Paushtaa Multigrain Sourdough Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/683e26ca-367d-4ad1-9c69-56e24e5a4328.png
+Product link : https://blinkit.com/prn/paushtaa-multigrain-sourdough-bread/prid/474366
+Detail name  : Paushtaa Multigrain Sourdough Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/0ba20ac1-840e-4757-8180-535f13eb3900.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/8ca853b7-edb6-40ea-983b-e02002f9fde8.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/cdc0f6b2-25e0-4a64-9cea-05aba8a44177.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/7fd7b07f-e2ea-427b-93e9-fccec977c2ed.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/4236e9cd-3b30-48cb-b1a8-1c0f4da13823.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/bdcc3188-44e1-434b-9399-3d0d25b28842.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/aaa6398e-eee0-4117-b70a-1434cd5d4d70.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/4305fee4-2088-4822-b5ab-b102e5aa0fa1.jpg
+  9. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 297 kcal
+  - Protein Per 100 g (g): 8g
+  - Total Carbohydrates Per 100 g (g): 55g
+  - Total Sugar Per 100 g (g): 3g
+  - Added Sugars Per 100 g (g): 0g
+  - Total Fat Per 100 g (g): 5g
+
+Product #7
+Listing name : Harvest Gold Hearty Brown Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/df3666bc-c07b-4a71-909a-63d829ebaed0.png
+Product link : https://blinkit.com/prn/harvest-gold-hearty-brown-bread/prid/24194
+Detail name  : Harvest Gold Hearty Brown Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/cccad207-5fea-4c84-ba19-8edcc1ed627a.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/9b987090-a51d-43e0-8285-b0cf215c71b0.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/78bd314b-5be2-42fd-9d86-ee46d0335292.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/f0412536-e79e-4703-aac2-cd54e98939b9.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/7bfb96e7-4f48-409a-8f54-f5d82d0fd1c7.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/2aa1e26b-29a6-4d96-99d3-26085059d115.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/d074aa88-aa93-433e-adc6-f4bbb383df2d.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/cf90fbc5-e077-4805-912d-1b0399124f12.jpg
+  9. https://cdn.grofers.com/da/cms-assets/cms/product/6ded48b2-b0dc-4e42-b0e4-7462deebb4d2.jpg
+  10. https://cdn.grofers.com/da/cms-assets/cms/product/28dd85ba-5d34-408b-a81a-03d87c555888.jpg
+  11. https://cdn.grofers.com/da/cms-assets/cms/product/a1103a28-77b9-4073-a2b1-cf5fa61e8a1d.jpg
+  12. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 248.29
+  - Protein Per 100 g (g): 9.18
+  - Total Carbohydrates Per 100 g (g): 48.44
+  - Total Sugar Per 100 g (g): 3.08
+  - Added Sugars Per 100 g (g): 1.96
+  - Total Fat Per 100 g (g): 1.98
+  - Saturated Fat Per 100 g (g): 0.3
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 4.92
+  - Sodium Per 100 g (mg): 425.23
+
+Product #8
+Listing name : Double Protein Bread (64 g) Zero Maida Multigrain
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/8f972e15-a271-4765-84ed-467391175bd7.png
+Product link : https://blinkit.com/prn/double-protein-bread-64-g-zero-maida-multigrain/prid/530684
+Detail name  : Double Protein Bread (64 g) Zero Maida Multigrain
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/8f972e15-a271-4765-84ed-467391175bd7.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/3afe9c53-d091-4206-94e1-496b865c8a90.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/5759a993-820c-4f40-ab55-928374349479.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/2634b704-f205-4aaa-98b4-d145145dd0cf.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/efc40ad2-aca8-4402-bf92-d2c774dbc961.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/fed937a1-431f-49cf-bcfc-341365ffd435.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/32fd6866-5e2b-49bd-88e0-b970f2cc5cc5.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/b237d6e6-e808-43be-a25d-8fd13520654f.jpg
+  9. https://cdn.grofers.com/da/cms-assets/cms/product/cc576e2a-0e6f-4ad2-b6a9-ad97df8bb98a.jpg
+  10. https://cdn.grofers.com/da/cms-assets/cms/product/3adce481-78f0-4596-98fc-7955a0df91bd.jpg
+  11. https://cdn.grofers.com/da/cms-assets/cms/product/bede6c89-0387-4845-a1d5-3196b5fdc87f.jpg
+  12. https://cdn.grofers.com/da/cms-assets/cms/product/8358ccfc-291d-4176-aff9-88a0f4acb625.jpg
+  13. https://cdn.grofers.com/da/cms-assets/cms/product/e1241aa7-3002-4d96-ba29-755eb6011890.jpg
+  14. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 270.3kcal
+  - Protein Per 100 g (g): 23.4g
+  - Total Carbohydrates Per 100 g (g): 32.2g
+  - Total Sugar Per 100 g (g): 4.5g
+  - Added Sugars Per 100 g (g): 2.1g
+  - Total Fat Per 100 g (g): 5.3g
+  - Saturated Fat Per 100 g (g): 0.5g
+  - Trans Fat Per 100 g (g): 0.0g
+  - Cholesterol Per 100 g (g): 0.0g
+  - Dietary Fiber Per 100 g (g): 12.9g
+  - Sodium Per 100 g (mg): 435.6mg
+
+Product #9
+Listing name : Naturbaked Whole Wheat Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/793ea0c7-6ac1-4cc1-ad0f-15596ea3ceac.png
+Product link : https://blinkit.com/prn/naturbaked-whole-wheat-bread/prid/647386
+Detail name  : Naturbaked Whole Wheat Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/793ea0c7-6ac1-4cc1-ad0f-15596ea3ceac.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/1ff26564-3df7-4161-8c2a-39dc5f5e7bd3.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/c7e4456f-f373-4882-aac2-c70cf430e5fb.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/efec821b-acaf-4509-94b2-c0cbe69f0534.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/789ae408-9147-4dd5-8e2d-1d83befd9289.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/0de000b4-ff72-43ae-8673-b36689002f76.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/063c66b0-0804-41be-af55-f471e416dfc5.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/e81384cd-f83f-408e-ad1e-1e38feeeaaa5.jpg
+  9. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   : <none>
+
+Product #10
+Listing name : Britannia Atta - Brown Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/fc3b51d3-16c2-43a3-8b81-03a7cf908cc9.png
+Product link : https://blinkit.com/prn/britannia-atta-brown-bread/prid/724915
+Detail name  : Britannia Atta - Brown Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/3ec5c084-794b-4835-8238-86d74a6a0827.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/8df0cc97-464e-4581-ae61-0c38d90fb3e5.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/82fe3031-6ba6-4029-aac3-180b8a500a20.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/2ead80dc-0e1a-4c02-8ee5-bd97908f50bf.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/387428bc-2926-40d2-8ce7-fe249085bdb1.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/03d4b44b-b483-442e-8c95-299f2e8f3dd5.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/16e557dd-db8f-4316-b696-3447a78bcf16.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/3d3d32d8-0137-4ce5-9dba-9fda8051b817.jpg
+  9. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   : <none>
+
+Product #11
+Listing name : English Oven Brown Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/0b267148-c2c6-4eae-9ecd-1e9a83569e3a.png
+Product link : https://blinkit.com/prn/english-oven-brown-bread/prid/18396
+Detail name  : English Oven Brown Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/051c9d54-3c10-4e36-88c8-c64ef8cf39dc.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/ceae944e-8f45-4834-bc66-5bb62febccb1.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/e7f09b01-0fe7-4b6a-be32-330d2c76a62d.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/648c43f9-db08-4dd0-8223-544eca90a7e6.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/8bcd274d-47b5-415e-af0f-52d320d424bf.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/fb440ce9-3681-4779-8e6b-df4f351dc097.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/7636fd4c-b101-4054-98e2-8ded4822159f.jpg
+  8. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 251.29
+  - Protein Per 100 g (g): 8.44
+  - Total Carbohydrates Per 100 g (g): 50.76
+  - Total Sugar Per 100 g (g): 3.86
+  - Added Sugars Per 100 g (g): 1.04
+  - Total Fat Per 100 g (g): 1.61
+  - Saturated Fat Per 100 g (g): 0.56
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 8.1
+  - Sodium Per 100 g (mg): 431
+
+Product #12
+Listing name : Suchali's Artisan Bakehouse Olive & Rosemary Sourdough
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/56915019-187b-4939-8327-6647fae0ae12.png
+Product link : https://blinkit.com/prn/suchalis-artisan-bakehouse-olive-and-rosemary-sourdough/prid/460623
+Detail name  : Suchali's Artisan Bakehouse Olive & Rosemary Sourdough
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/c920914a-c43c-4583-a0e4-4d5e3d31f278.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/04a52f63-31ba-4aa1-b8b4-cda0263b9bc8.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/92a21f53-b8e3-4d60-b140-3c025bd7b668.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/33a177cf-dbb3-4698-83cc-5a2aa8fbadb4.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/52ce8181-07f4-4e64-b7cc-3ea741b68b11.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/6271fc58-04ad-4163-950e-81351210fb46.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/9b7d2df3-ec09-4bb8-a514-14c9891e8b99.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/babbe57c-4d20-4c05-a71d-b8396e60800a.jpg
+  9. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 236.58
+  - Protein Per 100 g (g): 8.97
+  - Total Carbohydrates Per 100 g (g): 46.53
+  - Total Sugar Per 100 g (g): 3.05
+  - Added Sugars Per 100 g (g): 0
+  - Total Fat Per 100 g (g): 1.62
+  - Saturated Fat Per 100 g (g): 0.784
+  - Unsaturated Fat Per 100 g (g): 0.836
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 7.29
+  - Sodium Per 100 g (mg): 647.1
+
+Product #13
+Listing name : Naturbaked Superseed Multigrain Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/ee61efec-a2a9-4aaf-856a-10208cce164c.png
+Product link : https://blinkit.com/prn/naturbaked-superseed-multigrain-bread/prid/647383
+Detail name  : Naturbaked Superseed Multigrain Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/ee61efec-a2a9-4aaf-856a-10208cce164c.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/8e69b4d7-5272-4880-9eaf-e7da9fdb6ce0.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/0887ccc6-1f7b-4774-baed-ae7f85af1db8.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/2efcff6c-9b3d-478c-94fa-fe00906d0f1b.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/7017c55a-0a0a-4608-94ad-73370b3ba4a7.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/b1ea1cc8-3769-4a39-b25b-6e9a527b0cdc.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/95690382-a848-4a61-88af-3af33bacf4cb.jpg
+  8. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   : <none>
+
+Product #14
+Listing name : English Oven Zero maida 100% Atta/ Wheat Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/7ed1504b-89a7-4479-8eb1-f25c088ed043.png
+Product link : https://blinkit.com/prn/english-oven-zero-maida-100-atta-wheat-bread/prid/383401
+Detail name  : English Oven Zero maida 100% Atta/ Wheat Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/a9254c81-6361-43ca-a8cc-cf31945d11a4.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/0eb12eb0-5bd0-4453-9302-4e2fdf4d41b6.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/2e3c89ca-e325-4092-93ac-5be99c925810.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/a63b9f8f-9d00-4eca-b1cc-87def2a99049.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/08d59a69-586f-4eaa-80ef-d068ccc1150a.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/33146586-e4e4-4e5e-a3b2-ac5653166207.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/b2f20877-a66c-4176-af68-e13b82517166.jpg
+  8. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 290.56
+  - Protein Per 100 g (g): 10.26
+  - Total Carbohydrates Per 100 g (g): 55.55
+  - Total Sugar Per 100 g (g): 6.13
+  - Added Sugars Per 100 g (g): 2.48
+  - Total Fat Per 100 g (g): 0.8
+  - Saturated Fat Per 100 g (g): 0.21
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 9.86
+  - Sodium Per 100 g (mg): 388
+
+Product #15
+Listing name : Suchali's Artisan Bakehouse Multigrain Sandwich Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/ae492a0a-341b-4615-8f06-232c4a8a58da.png
+Product link : https://blinkit.com/prn/suchalis-artisan-bakehouse-multigrain-sandwich-bread/prid/460625
+Detail name  : Suchali's Artisan Bakehouse Multigrain Sandwich Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/fa026616-9408-4c67-b3e5-81972458b604.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/c11b604e-a43c-4c64-aac0-5d5d83aaed5e.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/e6108c84-3b7c-4616-8b68-69f09417d69f.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/3338f95e-46da-439b-9117-d06b8b1924c9.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/db5b5450-d535-44b6-957a-54ac165ea684.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/ce0b8d33-71d9-462b-8d93-860ed0322a2f.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/226f1ffc-1076-41b1-8369-dd2f435ac275.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/ebb94ffa-0cc7-4c10-bb12-e21d4b6cc006.jpg
+  9. https://cdn.grofers.com/da/cms-assets/cms/product/85647b85-9721-42c0-8fef-84a9f667ef33.jpg
+  10. https://cdn.grofers.com/da/cms-assets/cms/product/a86c75aa-1574-4013-9875-3391c02a7f76.jpg
+  11. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 258.7
+  - Protein Per 100 g (g): 9.9
+  - Total Carbohydrates Per 100 g (g): 41.9
+  - Total Sugar Per 100 g (g): 3.5
+  - Added Sugars Per 100 g (g): 2.2
+  - Total Fat Per 100 g (g): 6
+  - Saturated Fat Per 100 g (g): 2.1
+  - Unsaturated Fat Per 100 g (g): 3.7
+  - Trans Fat Per 100 g (g): 0.2
+  - Cholesterol Per 100 g (g): 0.0061
+  - Dietary Fiber Per 100 g (g): 8.1
+  - Sodium Per 100 g (mg): 424
+
+Product #16
+Listing name : Bonn Zero Maida 100% Atta Whole Wheat Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.png
+Product link : https://blinkit.com/prn/bonn-zero-maida-100-atta-whole-wheat-bread/prid/347638
+Detail name  : Bonn Zero Maida 100% Atta Whole Wheat Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/fa33fabe-9732-4423-8af8-e5b365a3e92d.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/6f2694e5-4ff8-4c7d-8f79-6e95024381cb.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/c0a8e2d5-9ae6-49dc-8dda-2df199391c43.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/86457f51-fb2f-4281-bd72-de2e6e2e5222.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/f3939102-7968-4673-81ff-9ff63ce02140.jpg
+  7. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 264
+  - Protein Per 100 g (g): 7.7
+  - Total Carbohydrates Per 100 g (g): 49.68
+  - Total Sugar Per 100 g (g): 4.48
+  - Added Sugars Per 100 g (g): 3.58
+  - Total Fat Per 100 g (g): 1.95
+  - Saturated Fat Per 100 g (g): 0.4
+  - Monosaturated Fat Per 100 g (g): 0.46
+  - Polyunsaturated Fat Per 100 g (g): 0.77
+  - Unsaturated Fat Per 100 g (g): 1.23
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 8.4
+  - Sodium Per 100 g (mg): 577
+
+Product #17
+Listing name : Bonn High Fibre Brown Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/d8ce712c-61c3-48b7-8ab8-0f1b67606a50.png
+Product link : https://blinkit.com/prn/bonn-high-fibre-brown-bread/prid/385219
+Detail name  : Bonn High Fibre Brown Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/d97d21fa-cc76-4465-bc6f-b9b6d0d91033.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/8d319b3a-9ccd-459b-acbb-bd6b73d7e935.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/4bb5ae48-eaae-4bae-b452-9539e81846c6.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/b836e7c6-5071-4afd-bbbe-400fcd83ee9a.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/50580d3d-0bec-4d92-80d9-3baa4538ef17.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/aad2c93d-3192-43b8-92e6-084833b30cb0.jpg
+  7. https://cdn.grofers.com/da/cms-assets/cms/product/31cab002-a1d0-4376-9dcf-22bdd62d88ba.jpg
+  8. https://cdn.grofers.com/da/cms-assets/cms/product/adca1faf-55b6-4e8d-91a8-4fd2e8073e7d.jpg
+  9. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 264 kcal
+  - Protein Per 100 g (g): 7.70 g
+  - Total Carbohydrates Per 100 g (g): 49.68 g
+  - Total Sugar Per 100 g (g): 4.48 g
+  - Added Sugars Per 100 g (g): 3.58 g
+  - Total Fat Per 100 g (g): 1.95 g
+  - Saturated Fat Per 100 g (g): 0.40 g
+  - Monosaturated Fat Per 100 g (g): 0.46 g
+  - Polyunsaturated Fat Per 100 g (g): 0.77 g
+  - Unsaturated Fat Per 100 g (g): 1.23 g
+  - Trans Fat Per 100 g (g): 0 g
+  - Cholesterol Per 100 g (g): 0 g
+  - Dietary Fiber Per 100 g (g): 8.40 g
+  - Sodium Per 100 g (mg): 577 mg
+
+Product #18
+Listing name : Bonn Pav Bread
+Listing image: https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/d7c04a2c-a5f4-4d88-ad66-924347bc3205.png
+Product link : https://blinkit.com/prn/bonn-pav-bread/prid/385988
+Detail name  : Bonn Pav Bread
+Hero images :
+  1. https://cdn.grofers.com/da/cms-assets/cms/product/33ac0194-096d-4d7b-9369-73923972a5de.jpg
+  2. https://cdn.grofers.com/da/cms-assets/cms/product/e77e55ae-5674-4754-bf11-228c6c571aa0.jpg
+  3. https://cdn.grofers.com/da/cms-assets/cms/product/9b496fb6-e5c0-4c72-949e-3796eb0eb34d.jpg
+  4. https://cdn.grofers.com/da/cms-assets/cms/product/6c833d9b-2947-4c05-afd8-0f536a8aa68f.jpg
+  5. https://cdn.grofers.com/da/cms-assets/cms/product/ca0c77f9-3987-4ea2-bd14-dee2f8f781a0.jpg
+  6. https://cdn.grofers.com/da/cms-assets/cms/product/740c5462-607c-466a-b5ae-cbe9bb79c0c3.jpg
+  7. https://cdn.grofers.com/app/images/products/common/customer_care.jpg
+Nutrition   :
+  - Energy Per 100 g (kcal): 280
+  - Protein Per 100 g (g): 7.26
+  - Total Carbohydrates Per 100 g (g): 50.69
+  - Total Sugar Per 100 g (g): 5.47
+  - Added Sugars Per 100 g (g): 4.4
+  - Total Fat Per 100 g (g): 4.98
+  - Saturated Fat Per 100 g (g): 2.13
+  - Monosaturated Fat Per 100 g (g): 1.98
+  - Polyunsaturated Fat Per 100 g (g): 0.78
+  - Unsaturated Fat Per 100 g (g): 2.76
+  - Trans Fat Per 100 g (g): 0
+  - Cholesterol Per 100 g (g): 0
+  - Dietary Fiber Per 100 g (g): 1.61
+  - Sodium Per 100 g (mg): 471
