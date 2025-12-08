@@ -1,0 +1,3982 @@
+{
+  "generated_at": "2025-12-08T05:08:20.060589+00:00",
+  "listing_target": "https://blinkit.com/cn/dairy-breakfast/bread-pav/cid/14/953",
+  "diagnostics": {
+    "plp_container_found": true,
+    "candidate_cards": 150,
+    "cards_with_names": 150,
+    "cards_with_images": 60,
+    "cards_with_links": 60,
+    "first_card_html": "<div class=\"tw-relative tw-flex tw-h-full tw-flex-col tw-items-start tw-gap-0.5 tw-pb-3 tw-bg-indigo-050 tw-border-[0.5px] tw-border-grey-200\" data-pf=\"reset\" id=\"691733\" role=\"button\" style=\"min-width: 100%; border-radius: 8px; justify-content: space-between; grid-column: span 2; box-shadow: rgba(0, 0, 0, 0.04) 2px 2px 8px; background-color: rgb(255, 255, 255);\" tabindex=\"0\">\n <div class=\"tw-absolute tw-left-3 tw-top-0 tw-z-10 tw-flex tw-items-center tw-justify-center\" data-pf=\"reset\">\n  <svg fill=\"none\" height=\"28\" viewbox=\"0 0 29 28\" width=\"29\" xmlns=\"http://www.w3.org/2000/svg\">\n   <path d=\"M28.9499 0C28.3999 0 27.9361 1.44696 27.9361 2.60412V27.9718L24.5708 25.9718L21.2055 27.9718L17.8402 25.9718L14.4749 27.9718L11.1096 25.9718L7.74436 27.9718L4.37907 25.9718L1.01378 27.9718V2.6037C1.01378 1.44655 0.549931 0 0 0H28.9499Z\" fill=\"#256fef\">\n   </path>\n  </svg>\n  <div class=\"tw-text-050 tw-absolute tw-z-20 tw-w-5 tw-text-center tw-text-[9px] tw-font-extrabold tw-text-white-900\" data-pf=\"reset\" style=\"color: var(--colors-white-900);\">\n   13%\nOFF\n  </div>\n </div>\n <div class=\"tw-relative tw-w-full tw-overflow-hidden tw-px-2.5\" data-pf=\"reset\" style=\"border-radius: 8px;\">\n  <div class=\"tw-bg-gradient-to-r tw-from-grey-100 tw-to-grey-200 motion-safe:tw-animate-pulse tw-overflow-hidden tw-flex tw-flex-col\" data-pf=\"reset\" style=\"width: 100%; height: 100%; border-radius: 8px; aspect-ratio: 1 / 1;\">\n  </div>\n  <div data-pf=\"reset\" style=\"position: absolute; top: 6px; right: 6px;\">\n   <div data-pf=\"reset\" style=\"height: 12px;\">\n    <div class=\"tw-bg-gradient-to-r tw-from-grey-100 tw-to-grey-200 motion-safe:tw-animate-pulse tw-overflow-hidden tw-flex tw-flex-col\" data-pf=\"reset\" style=\"width: 17px; height: 12px; aspect-ratio: 1 / 1;\">\n    </div>\n   </div>\n  </div>\n </div>\n <div class=\"tw-w-full tw-px-3\" data-pf=\"reset\">\n  <div class=\"tw-flex tw-w-full tw-flex-wrap tw-gap-1\" data-pf=\"reset\" style=\"margin-bottom: 7px;\">\n   <div class=\"tw-bg-grey-100 tw-text-black-100\" data-pf=\"reset\" style=\"border-radius: 4px; padding: 0px 6px;\">\n    <div class=\"tw-flex tw-items-center tw-gap-0.5\" data-pf=\"reset\">\n     <div class=\"tw-w-2.5\" data-pf=\"reset\">\n      <div class=\"tw-bg-gradient-to-r tw-from-grey-100 tw-to-grey-200 motion-safe:tw-animate-pulse tw-overflow-hidden tw-flex tw-flex-col\" data-pf=\"reset\" style=\"width: 100%; height: 100%; aspect-ratio: 1 / 1;\">\n      </div>\n     </div>\n     <div class=\"tw-text-050 tw-font-bold tw-uppercase\" data-pf=\"reset\" style=\"color: var(--colors-black-900);\">\n      8 mins\n     </div>\n    </div>\n   </div>\n  </div>\n  <div class=\"tw-flex tw-w-full tw-flex-col\" data-pf=\"reset\">\n   <div class=\"tw-mb-2 tw-flex tw-flex-col tw-text-400\" data-pf=\"reset\" style=\"height: calc(3em + 0.375rem);\">\n    <div class=\"tw-mb-1.5\" data-pf=\"reset\">\n     <div class=\"tw-text-300 tw-font-semibold tw-line-clamp-2\" data-pf=\"reset\" style=\"color: var(--colors-black-900);\">\n      The Baker's Dozen Zero Maida Protein Bread, Whole Wheat\n     </div>\n    </div>\n    <div class=\"tw-flex tw-items-center\" data-pf=\"reset\">\n     <div class=\"tw-text-200 tw-font-medium tw-line-clamp-1\" data-pf=\"reset\" style=\"color: var(--colors-grey-700);\">\n      240 g\n     </div>\n    </div>\n   </div>\n   <div class=\"tw-flex tw-items-center tw-justify-between\" data-pf=\"reset\">\n    <div data-pf=\"reset\">\n     <div class=\"tw-text-200 tw-font-semibold\" data-pf=\"reset\" style=\"color: var(--colors-black-900);\">\n      ₹69\n     </div>\n     <div class=\"tw-text-200 tw-font-regular tw-line-through\" data-pf=\"reset\" style=\"color: var(--colors-grey-600);\">\n      <span data-pf=\"reset\">\n       <span class=\"\" data-pf=\"reset\">\n        ₹80\n       </span>\n      </span>\n     </div>\n    </div>\n    <div class=\"tw-rounded-md tw-font-okra tw-flex tw-items-center tw-justify-center tw-flex-col tw-font-semibold tw-overflow-hidden tw-text-300 tw-px-0 tw-gap-0.5 tw-min-w-[66px] tw-min-h-[32px] tw-bg-green-050 tw-border tw-border-base-green tw-text-base-green\" data-pf=\"reset\" role=\"button\" style=\"padding-bottom: 4px; padding-top: 4px;\" tabindex=\"0\">\n     <div class=\"\" data-pf=\"reset\">\n      ADD\n     </div>\n    </div>\n   </div>\n  </div>\n </div>\n</div>\n",
+    "block_page_detected": false
+  },
+  "products": [
+    {
+      "listing_name": "Naturbaked Superseed Multigrain Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/ee61efec-a2a9-4aaf-856a-10208cce164c.png",
+      "product_link": "https://blinkit.com/prn/naturbaked-superseed-multigrain-bread/prid/647383",
+      "detail": {
+        "detail_name": "Naturbaked Superseed Multigrain Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ee61efec-a2a9-4aaf-856a-10208cce164c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8e69b4d7-5272-4880-9eaf-e7da9fdb6ce0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0887ccc6-1f7b-4774-baed-ae7f85af1db8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2efcff6c-9b3d-478c-94fa-fe00906d0f1b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7017c55a-0a0a-4608-94ad-73370b3ba4a7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b1ea1cc8-3769-4a39-b25b-6e9a527b0cdc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/95690382-a848-4a61-88af-3af33bacf4cb.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Suchali's Artisan Bakehouse Olive & Rosemary Sourdough",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/56915019-187b-4939-8327-6647fae0ae12.png",
+      "product_link": "https://blinkit.com/prn/suchalis-artisan-bakehouse-olive-and-rosemary-sourdough/prid/460623",
+      "detail": {
+        "detail_name": "Suchali's Artisan Bakehouse Olive & Rosemary Sourdough",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c920914a-c43c-4583-a0e4-4d5e3d31f278.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/04a52f63-31ba-4aa1-b8b4-cda0263b9bc8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/92a21f53-b8e3-4d60-b140-3c025bd7b668.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33a177cf-dbb3-4698-83cc-5a2aa8fbadb4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/52ce8181-07f4-4e64-b7cc-3ea741b68b11.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6271fc58-04ad-4163-950e-81351210fb46.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b7d2df3-ec09-4bb8-a514-14c9891e8b99.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/babbe57c-4d20-4c05-a71d-b8396e60800a.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "236.58"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.97"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "46.53"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.05"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.62"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.784"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.836"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7.29"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "647.1"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Zero maida 100% Atta/ Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/7ed1504b-89a7-4479-8eb1-f25c088ed043.png",
+      "product_link": "https://blinkit.com/prn/english-oven-zero-maida-100-atta-wheat-bread/prid/383401",
+      "detail": {
+        "detail_name": "English Oven Zero maida 100% Atta/ Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a9254c81-6361-43ca-a8cc-cf31945d11a4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0eb12eb0-5bd0-4453-9302-4e2fdf4d41b6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2e3c89ca-e325-4092-93ac-5be99c925810.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a63b9f8f-9d00-4eca-b1cc-87def2a99049.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/08d59a69-586f-4eaa-80ef-d068ccc1150a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33146586-e4e4-4e5e-a3b2-ac5653166207.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b2f20877-a66c-4176-af68-e13b82517166.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "290.56"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.26"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "55.55"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.13"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.48"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.8"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.21"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "9.86"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "388"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Zero Maida 100% Atta Whole Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.png",
+      "product_link": "https://blinkit.com/prn/bonn-zero-maida-100-atta-whole-wheat-bread/prid/347638",
+      "detail": {
+        "detail_name": "Bonn Zero Maida 100% Atta Whole Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fa33fabe-9732-4423-8af8-e5b365a3e92d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6f2694e5-4ff8-4c7d-8f79-6e95024381cb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c0a8e2d5-9ae6-49dc-8dda-2df199391c43.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/86457f51-fb2f-4281-bd72-de2e6e2e5222.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f3939102-7968-4673-81ff-9ff63ce02140.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "264"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.7"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "49.68"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.48"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.58"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.95"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.4"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.46"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.77"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.23"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.4"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "577"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn High Fibre Brown Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/d8ce712c-61c3-48b7-8ab8-0f1b67606a50.png",
+      "product_link": "https://blinkit.com/prn/bonn-high-fibre-brown-bread/prid/385219",
+      "detail": {
+        "detail_name": "Bonn High Fibre Brown Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d97d21fa-cc76-4465-bc6f-b9b6d0d91033.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8d319b3a-9ccd-459b-acbb-bd6b73d7e935.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4bb5ae48-eaae-4bae-b452-9539e81846c6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b836e7c6-5071-4afd-bbbe-400fcd83ee9a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/50580d3d-0bec-4d92-80d9-3baa4538ef17.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aad2c93d-3192-43b8-92e6-084833b30cb0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/31cab002-a1d0-4376-9dcf-22bdd62d88ba.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/adca1faf-55b6-4e8d-91a8-4fd2e8073e7d.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "264 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.70 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "49.68 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.48 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.58 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.95 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.40 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.46 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.77 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.23 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.40 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "577 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Pav Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/d7c04a2c-a5f4-4d88-ad66-924347bc3205.png",
+      "product_link": "https://blinkit.com/prn/bonn-pav-bread/prid/385988",
+      "detail": {
+        "detail_name": "Bonn Pav Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33ac0194-096d-4d7b-9369-73923972a5de.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e77e55ae-5674-4754-bf11-228c6c571aa0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b496fb6-e5c0-4c72-949e-3796eb0eb34d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6c833d9b-2947-4c05-afd8-0f536a8aa68f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ca0c77f9-3987-4ea2-bd14-dee2f8f781a0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/740c5462-607c-466a-b5ae-cbe9bb79c0c3.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "280"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.26"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "50.69"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "5.47"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "4.4"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4.98"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "2.13"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.98"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.78"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.76"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.61"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "471"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Footlong Garlic Sub",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/721bb08c-8b7e-4c84-974a-00b1ffbd9e76.png",
+      "product_link": "https://blinkit.com/prn/bonn-footlong-garlic-sub/prid/464205",
+      "detail": {
+        "detail_name": "Bonn Footlong Garlic Sub",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7e1e7078-2040-496c-8383-e65fe15455f1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/96ff5f0d-7192-4867-b733-1c58fe2ea4cb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5cb57efe-199f-4f62-ad8f-e76b8c83f1b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/38b654a3-f241-439a-898d-34d1850aff81.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f4090dab-eed3-4bfa-910e-350c95e2efa4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90cfaa92-1b00-4e56-a06b-39de3535c00b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/600e90bc-df8a-40fb-9d08-83c3e79aecd6.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "303 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.64 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "58.40 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.69 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.51 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.51 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.36 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.29 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.86 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.15 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.28 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "386 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Suchali's Artisan Bakehouse Multigrain Sandwich Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/ae492a0a-341b-4615-8f06-232c4a8a58da.png",
+      "product_link": "https://blinkit.com/prn/suchalis-artisan-bakehouse-multigrain-sandwich-bread/prid/460625",
+      "detail": {
+        "detail_name": "Suchali's Artisan Bakehouse Multigrain Sandwich Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fa026616-9408-4c67-b3e5-81972458b604.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c11b604e-a43c-4c64-aac0-5d5d83aaed5e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e6108c84-3b7c-4616-8b68-69f09417d69f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3338f95e-46da-439b-9117-d06b8b1924c9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/db5b5450-d535-44b6-957a-54ac165ea684.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ce0b8d33-71d9-462b-8d93-860ed0322a2f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/226f1ffc-1076-41b1-8369-dd2f435ac275.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ebb94ffa-0cc7-4c10-bb12-e21d4b6cc006.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/85647b85-9721-42c0-8fef-84a9f667ef33.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a86c75aa-1574-4013-9875-3391c02a7f76.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "258.7"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.9"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "41.9"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.5"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.2"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "6"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "2.1"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "3.7"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.2"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.0061"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.1"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "424"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/136058ed-249c-4cad-824c-27cb44848e17.png",
+      "product_link": "https://blinkit.com/prn/bonn-white-bread/prid/558862",
+      "detail": {
+        "detail_name": "Bonn White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/770cffa9-bb00-48ac-829f-e35c77d37c31.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4a0050a3-c850-4fa1-ac80-b6611e0ee57b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f7d44228-9aa7-48f3-a8d1-f30565bcff61.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7fd221d8-2778-4610-9e05-6851613125ec.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c49bd355-ba27-4a95-8856-5b1c9d0e4950.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4a259974-e485-49dc-9c4c-c89678ea83d7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f3343cf-f36a-42d0-941a-422310521430.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "232 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.89 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48.43 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.93 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.81 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.83 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.24 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.17 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.31 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.48 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.55 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "453 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Suchali's Artisan Bakehouse 100% Whole Wheat Sourdough",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/bc59b00c-5d7a-438a-9c57-54281aaaf5af.png",
+      "product_link": "https://blinkit.com/prn/suchalis-artisan-bakehouse-100-whole-wheat-sourdough/prid/460621",
+      "detail": {
+        "detail_name": "Suchali's Artisan Bakehouse 100% Whole Wheat Sourdough",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/982523bf-9c66-45fb-a1a4-056f7c5ccf33.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ddc70de-99f0-40b4-bd62-c9a30b357242.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e665118b-35e6-42de-aab9-1d01a9182c41.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ceab369d-871d-4f8b-9fd5-14463c1d5805.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/750acc4b-1944-4bc0-9aeb-5b04cfa49321.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6b5e2d22-d18a-44f7-938b-ca7f88e2dc90.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b0e1634-7915-4043-b01f-ff5230d0cb21.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6d79f8b3-0fcb-4c61-9ffa-1cf9d8af5629.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "233.39"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.03"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "46.46"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.1"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.27"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.827"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.443"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.91"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "529.64"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Multigrain Sourdough Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/9c5e1653-1be2-491a-8da9-b16832a2f185.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-multigrain-sourdough-bread/prid/547906",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Multigrain Sourdough Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9c5e1653-1be2-491a-8da9-b16832a2f185.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ee3242f-9d20-422b-a567-15d0b4dee889.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/058eab5b-6d1c-41b9-9bbb-01606f9a7ead.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9e3bcbdd-79c1-4776-9219-083ad791e3b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fc5d0ea3-6d56-4b2c-adc9-17a53399ce0f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4e5b4b55-eb85-48a8-a61a-36b4cb883d7e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/01bd69e9-73da-436b-97bc-4a589df65811.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d54e24ba-e1aa-4197-b352-3017b5634441.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2749ade8-9943-400b-a243-880cd526ef69.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "344"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "11"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "66"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "5"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.4"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "250"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Protein Chef High Protein Pav Bun (Zero Maida, Multigrain)",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/7d685d2a-6bf6-4592-9c4d-8635b7e3b341.png",
+      "product_link": "https://blinkit.com/prn/protein-chef-high-protein-pav-bun-zero-maida-multigrain/prid/555304",
+      "detail": {
+        "detail_name": "Protein Chef High Protein Pav Bun (Zero Maida, Multigrain)",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7d685d2a-6bf6-4592-9c4d-8635b7e3b341.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9f97e4aa-d81d-40d0-9d0d-95f648740454.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2dd6a2d4-89be-4820-aeef-2928f1ddc032.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/28e96080-0ccd-4b15-8396-16031cd68144.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7a0b382b-3b1a-4664-a983-5a782dd3b4c0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4378dd6a-e276-4f89-83c8-33ba6b8a1946.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7409167e-75e7-418a-98a9-afdbf50512df.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d4939fda-80de-46f0-a0bb-a00438d05dc2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bde3e92c-1d39-4ce5-a453-9fe2463da21c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/790cbdda-1449-4d17-9f4c-9101dca8a475.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "243.7"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "14.2"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "41.5"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.1"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.3"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.4"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6.7"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "333.5"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Kulcha Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/bd051473-10a6-4a83-982f-467425ef1bd2.png",
+      "product_link": "https://blinkit.com/prn/bonn-kulcha-bread/prid/273399",
+      "detail": {
+        "detail_name": "Bonn Kulcha Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bd051473-10a6-4a83-982f-467425ef1bd2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e9edc387-9184-433f-96cb-8f6a50a1514e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/86e72593-670e-4383-a6b5-d23aa18cf494.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f26ecc19-180c-4131-af21-713251057ee6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e7b94e69-1ca8-4bca-9c37-5f12d34f5981.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/46526914-146e-4e0a-9e82-51804081101c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a727cbbd-1465-41fd-a741-fa3817c09c36.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "258"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.95"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "47.39"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "2.38"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.32"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4.21"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.79"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.65"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.68"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.33"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.6"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "254"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Zero Maida Multigrain Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/ff8853fd-1be8-48cf-893a-3f1616af322c.png",
+      "product_link": "https://blinkit.com/prn/english-oven-zero-maida-multigrain-bread/prid/18401",
+      "detail": {
+        "detail_name": "English Oven Zero Maida Multigrain Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/36239c24-f96a-48c7-8ab4-6ea1c0f97139.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/51cd939c-3acf-4022-bb3e-9b8a94a2ce29.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5fd2c436-9b07-4d1f-bf35-38748d6d075d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/19f5e116-ee80-4ed2-b106-ff713d8b32f9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/239fd286-f6e0-40f8-b73f-472d21d102fb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e0d2b49a-a38b-49aa-9941-9f35612b753a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/413d4ba6-63c4-4519-8737-17ce0c4f20f3.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "310.93"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.24"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "54.31"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.74"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.93"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.09"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.1"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "10.27"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "435"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Health Factory Zero Maida Whole Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/4eed8493-59d6-4e3a-9812-da09f584271f.png",
+      "product_link": "https://blinkit.com/prn/the-health-factory-zero-maida-whole-wheat-bread/prid/530067",
+      "detail": {
+        "detail_name": "The Health Factory Zero Maida Whole Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4eed8493-59d6-4e3a-9812-da09f584271f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/222cd6e5-b666-4963-8daa-c6281a35cce2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d3fad0c0-33f5-44e6-9a1a-ce095e5f6956.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/994bd4f9-aa63-476f-82e9-cb953ca0b1f7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2b96ed72-ad9f-4176-8b01-bf2905a9cf5b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/75931772-7536-45f8-be98-f41012f29dea.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "245.22"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "13.72"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "44.66"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.22"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.1"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.3"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.34"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6.34"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "333.52"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Milk Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/9f363c60-8b58-4e1a-8c20-9647247b7227.png",
+      "product_link": "https://blinkit.com/prn/english-oven-milk-bread/prid/24178",
+      "detail": {
+        "detail_name": "English Oven Milk Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ceba113a-b295-4153-b90f-681a3d45dfbe.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b781581e-059d-491c-ad3c-89eb71e95864.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aff1b286-31b9-4326-b937-6f5143bed71e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e0b03782-16b8-4907-9045-b1f33a5e8b52.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/98967702-da81-434c-995d-19626969fac7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c466c7c7-fa0f-4c8c-a0db-bd708d1de59c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a4404063-f3de-4952-bb14-071ce38e725b.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "262.29 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.77 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "54.86 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "2.92 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.23 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.09 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "5.28 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "421 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Sesame Burger Bun Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/adfa0944-bbef-4c87-ad9f-923762f76fa4.png",
+      "product_link": "https://blinkit.com/prn/bonn-sesame-burger-bun-bread/prid/358528",
+      "detail": {
+        "detail_name": "Bonn Sesame Burger Bun Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/adfa0944-bbef-4c87-ad9f-923762f76fa4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0e399533-2864-45c2-8b9c-a1cd00b851ab.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/178d2e62-433a-43b9-860e-f9c56a954b0c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d07b355b-f4ba-4d2a-8ba8-b6cdeb803790.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e0255a76-b9c3-427c-a3a0-5b2f5b20f97c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d07f41f5-40d0-4a14-82ed-76efa9407ec3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ff544d4-cf44-4ea7-9990-a508cbbb599e.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "275 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.88 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.87 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "9.44 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "8.39 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.17 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.06 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.93 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.49 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.42 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.68 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "448 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Ragi Sourdough Brown Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/3ce8c869-3bbc-4082-8970-816f0109d78c.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-ragi-sourdough-brown-bread/prid/547907",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Ragi Sourdough Brown Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ce8c869-3bbc-4082-8970-816f0109d78c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/626b8eda-0902-4a39-8f61-e0ed1efb790e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fcbcf075-2f21-4aa9-8ae8-853d5f3e2393.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a9d4b210-a2fb-4c64-bf37-b20afc98943c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/adf11b4e-ac2a-4cb5-b5ee-59b38f845ca8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/206451d2-b123-4a2e-adb1-ce7b08ae88dc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aa0365ed-19b5-4ad7-9725-4a84bcaecacc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3741fc66-0ec0-4d9d-ab19-650001de347a.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "244 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "11 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.3 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "451 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Garlic Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/939a1a11-9c0b-4c4c-b5cb-42d030b52fe9.png",
+      "product_link": "https://blinkit.com/prn/bonn-garlic-bread/prid/273397",
+      "detail": {
+        "detail_name": "Bonn Garlic Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/091a6c18-ef5a-4196-ae3f-b4e3b1a67377.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64d0008e-dfbb-4e7f-b79d-fb6e609d2773.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/953d422c-387d-4541-b62b-e5e480088aa9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3c00ef99-560c-4b4f-9002-7c53254e891a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7c6bbf8c-11fc-4d88-9e4d-eb0ff9b12c79.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba01443b-b448-4c84-ab48-06847e2bcbf6.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "294"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.4"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "56.46"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.63"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.45"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.46"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.82"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.7"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.26"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.96"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.24"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "619"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/cb369f43-1432-42e6-b5e3-a639ab005ca7.png",
+      "product_link": "https://blinkit.com/prn/bonn-white-bread/prid/652310",
+      "detail": {
+        "detail_name": "Bonn White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/88a81d37-a09b-4be2-8130-c4081e35f19a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a1a05b80-fd86-4fbf-b1cf-1dafb66062c1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/81f31149-9d62-473c-b44b-30a24d91cf1c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f2fd4674-c2f0-4c5b-bc26-bf5175502bfe.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/36e09b20-42d8-4a07-8d8d-b2d4a5a6776c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f7c71c79-0ccb-462b-b88d-4d55ba9c1289.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f6b765b-a334-457a-ac91-9054529c6add.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "232"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.89"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48.48"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.93"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.81"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.83"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.24"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.17"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.31"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.48"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.55"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "453"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Premium White Bread 350 g",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/81136a7e-0681-4376-a109-92550ae66877.png",
+      "product_link": "https://blinkit.com/prn/english-oven-premium-white-bread-350-g/prid/92957",
+      "detail": {
+        "detail_name": "English Oven Premium White Bread 350 g",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/81136a7e-0681-4376-a109-92550ae66877.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/191687f6-56d5-49f8-bc19-6c70424dcee0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3833ee75-fecb-451f-8f33-364c1deb2af5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/79569fb8-051d-4de0-81d1-c3da6d1eabcb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f71f5aa8-a485-4477-b97c-e862a96489dd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/696a25c2-1b35-4a23-b450-a667f38f5a11.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "263.16"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.68"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "54.86"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.21"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.2"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Premium White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/e2fd8af6-402d-415e-8b42-4ef1a29c7ede.png",
+      "product_link": "https://blinkit.com/prn/english-oven-premium-white-bread/prid/18399",
+      "detail": {
+        "detail_name": "English Oven Premium White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e2fd8af6-402d-415e-8b42-4ef1a29c7ede.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/18f95241-dd1b-4793-ae58-ee70314a86b3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c79bec4a-a5c3-4c85-97c9-578f078d35e4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1dfec18d-d1cc-480e-8f1e-9e68a287211f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7b0b0a90-9076-47ea-8124-d6b2355963ef.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a884e85b-be7f-4830-a9a7-5fa8de41aaee.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/576b569e-bf11-4e16-a4dd-1fa3625e0299.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "253.26"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.07"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "54.85"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "5.07"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "4.19"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.02"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.46"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.2"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "390"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Whole Wheat Sourdough Burger Bun",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/a2d11324-7228-40a0-903d-057c267403c9.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-whole-wheat-sourdough-burger-bun/prid/545712",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Whole Wheat Sourdough Burger Bun",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a2d11324-7228-40a0-903d-057c267403c9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/04b73f39-a463-4f92-ae36-ba7d3b09c920.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5f5e15cf-28d6-424d-a3bf-feed2c58caee.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/308b3d23-7185-4d6e-b3f4-d9521c38f4e5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/631a38a1-da60-49ec-ab75-f51e0fb2ba70.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d1f2d44b-292a-420f-9e43-0e0591c645fb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/078e1816-25e1-45d1-af02-84bd4df3b0cf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/28d30b7c-c229-4af2-903d-8b4c5f0ad1d6.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "251 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "49 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "11 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.3 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "551 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Pita Bread, Whole Wheat",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/f86de94f-2f9e-463e-858c-2f209f42f715.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-pita-bread-whole-wheat/prid/455874",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Pita Bread, Whole Wheat",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f86de94f-2f9e-463e-858c-2f209f42f715.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/35727718-c84e-4fdb-bc4f-ed3d0a927608.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9af8c7b9-d13f-42f2-adbf-c5ac83a5b4fa.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e61b8265-5460-40de-81ee-b8d6d690ed80.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/875bccce-6730-4bd4-8fb7-5c01103c599b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/088667f9-c163-4881-be00-a29ad0b322a9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3b03f709-e256-45d7-87d4-a164edff377a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/89a1a64f-11e8-463b-a4a9-cdca7160acc3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fbe8121d-b83f-4a36-b0d8-d9edbd4543fb.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "365 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "11 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "58 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "2 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0.5 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "10 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "4 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "210 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Fruit Bun",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/f4418ade-78c5-4405-9973-02c6c6db3289.png",
+      "product_link": "https://blinkit.com/prn/english-oven-fruit-bun/prid/92821",
+      "detail": {
+        "detail_name": "English Oven Fruit Bun",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a19a6181-df02-49fc-8628-34d2022a1104.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/751fc7ab-dfbb-48f2-a573-fa72049a56af.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d1f906db-3d43-49f6-a264-b6df5424596a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/31c45252-5290-4d00-9540-1dbc562b45fc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1611e2bf-409f-4fe4-b7e6-1dacf48a4df2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/663e9c92-a457-4a37-a886-e69bbd283647.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9d5ddabc-fb81-4a31-b878-1cb6477b1e22.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "267.29"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.14"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "57.22"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "14.58"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "12.04"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.65"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.26"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3.74"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "369"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Protein Chef High Protein Burger Bun (No Maida, Multigrain)",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/5f44a8a1-f813-4e86-8e11-f2e7dceff3c4.png",
+      "product_link": "https://blinkit.com/prn/protein-chef-high-protein-burger-bun-no-maida-multigrain/prid/555307",
+      "detail": {
+        "detail_name": "Protein Chef High Protein Burger Bun (No Maida, Multigrain)",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e835505e-6d50-4071-937e-331090f60959.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8dc92cd5-0810-4772-bc94-216561e70ac0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/59a77c63-fb4d-4793-8b9a-afdb9d10abeb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/99b0a34e-b9a2-4d15-adbe-bc74d4ceea8e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bfe3ba3c-053f-4cc0-b3d9-a9a94b979cba.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/26b9cf72-0680-442c-91bc-cdc04192e592.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7779c602-1bf8-47ca-8b72-f2fd58b79ee0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ff211e77-3880-4943-abc1-549926749f5d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/87f38227-2036-4863-94d3-6b7ed4930e3e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f7fdc24-7197-4493-8189-15948511fe80.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b4114463-c262-4f48-b5e1-e8504bab1f85.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8291e251-4fd9-4bd1-b7f7-99d6e84c8274.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "243.7"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "14.2"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "41.5"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.1"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.3"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.4"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6.7"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "333.5"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Theobroma Chocolate Chip Cookies",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/faa2192f-be0d-4bce-8184-1f3173d40427.png",
+      "product_link": "https://blinkit.com/prn/theobroma-chocolate-chip-cookies/prid/441888",
+      "detail": {
+        "detail_name": "Theobroma Chocolate Chip Cookies",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0f33b3c5-29be-474a-9634-d6a45df3a1a3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a23a96aa-4561-4d39-bdc8-7aa6cc51eab0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7f269892-ddde-4739-8af2-538ab87a0c4f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/abf148cf-866c-4f8b-bbd9-fcf9fc834faf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3f76ea11-5c72-4e17-9dd1-01a428eb7a74.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3b50a059-619e-4c91-84d7-24884802818d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a4bf49ef-9158-4b3d-ade9-8161b767d1bd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a5a124b3-4cf2-4dbb-ad20-8d3c59ed6895.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8d45a61c-85c3-4b60-b70c-c28dfe793f54.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.35"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "61"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "24.29"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "20.41"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "25.12"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "15.94"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "8.35"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "158.94"
+          },
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "503.59"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Banana Walnut Pound Cake, Whole Wheat",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/de1863e6-e091-4f1c-900e-4df0ab7ce009.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-banana-walnut-pound-cake-whole-wheat/prid/467335",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Banana Walnut Pound Cake, Whole Wheat",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/de1863e6-e091-4f1c-900e-4df0ab7ce009.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7b712e85-c277-4a50-8de7-a7e64fe68fd0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d65f710c-3d7b-4636-b3c7-a68042e94105.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8898d140-d9d3-4e28-ac54-0c79f1491fd6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2ffe102b-bf03-485b-8903-3ab5e80c1f4f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9f2cdeb8-18ea-44ee-89f6-72d87b8dc723.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4190cf93-ac14-4a6c-b6fc-955c683dab00.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7182d75f-ac3b-4d73-842b-0c4536b0b27e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/02155dbc-c52e-47ee-ab56-11eeede1ffae.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/850ac779-1519-425c-823b-e14568a73244.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "448 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "43 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "22 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "20 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "26 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "2 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "60 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Britannia 100% Whole Wheat Bread (No Maida)",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/85a79b58-5cb4-4801-acd5-ee364bdc0fe9.png",
+      "product_link": "https://blinkit.com/prn/britannia-100-whole-wheat-bread-no-maida/prid/127031",
+      "detail": {
+        "detail_name": "Britannia 100% Whole Wheat Bread (No Maida)",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f3683452-3c1b-4c77-a444-c6fe7c902dd8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c5e3a3eb-21b0-4b7d-931d-09c2c1646d63.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/35e28520-d9d0-4f9a-b414-65341fe67745.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7d2cb62d-7935-4ad0-b687-b7653509437e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2c0d1185-a40f-4b5a-9d22-f836ee291daf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/10f69ae9-dbfd-4772-b0a6-498a463f116a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e68840ee-bb35-43ca-a5d7-864ec110500a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ab536e6e-3e83-4f6f-829f-863273996d22.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d4cf17e9-e7ef-4cf1-946b-0cc7d3f6a4c6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f66d85f4-3aaf-4af5-9011-1dbd353a5f71.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c4a80706-5319-41f7-a361-ddd0486c494c.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "245"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.3"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "50.7"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "1.5"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.5"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.6"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.5"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.6"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.1"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4.4"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "478.6"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Bombay Pav",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/cbfc7785-461b-4718-8cbc-c87da7aea7dd.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-bombay-pav/prid/65677",
+      "detail": {
+        "detail_name": "Harvest Gold Bombay Pav",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cbfc7785-461b-4718-8cbc-c87da7aea7dd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0365c2ca-7702-4b8b-a4b3-0c2c0f164416.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/840dbe0c-9da7-49d8-a102-fecf662a8214.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8d7e2199-60e0-4676-902e-1a2be627faba.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2617628a-263b-4621-9ab9-9573ddf3373e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7a151e8e-a3ae-406b-8a93-6f651dbc74af.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6f772069-9381-41b4-ba4a-97be15280133.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3b46d08d-5fb1-4f3b-8460-6fe096cabdee.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "263.3"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.3"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "55.3"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "4.4"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.97"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.36"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.4"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.36"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.76"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.7"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "344"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Burger Bun",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/fa789a78-3b27-475b-8cbc-0cdd2a84c192.png",
+      "product_link": "https://blinkit.com/prn/english-oven-burger-bun/prid/18405",
+      "detail": {
+        "detail_name": "English Oven Burger Bun",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/675ebde1-dd3b-454b-b5a2-ecdb2eed37d4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/972ce3b3-53d8-46ff-9ed5-e8f92602fa6f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba159868-c7dc-4f10-af3e-03c731c15177.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/62aa8acd-a8a0-44c2-ad6d-bd99647c89cc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/47fa5443-92ae-4325-8079-01e0eea30e04.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c7d6e564-5569-48b7-b8d1-f5d803716980.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f8033e90-7de9-450c-95c5-ed12f13477c7.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "277 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.63 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.72 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "8.96 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.52 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.70 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Kulcha",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/702ec31d-d3f8-45a7-92dd-34982b8c5d78.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-kulcha/prid/65679",
+      "detail": {
+        "detail_name": "Harvest Gold Kulcha",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/702ec31d-d3f8-45a7-92dd-34982b8c5d78.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5b1b4b74-d946-404a-84f7-f092e5340ba8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aa5fb147-fd39-4471-8d1a-9a6fe162a045.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6410b25f-9241-46dd-8c8f-dc8d1f42ad45.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e220f2bf-21d6-4872-8bc6-b58bd752b375.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/257fc49c-ee2d-49ec-8f26-2d4241248512.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1e072d03-6101-4e7c-b4d8-9fa1ca176757.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ed6fb744-ccca-4370-bd2c-cbe177afff7f.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "267.4"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.3"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.8"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.5"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.02"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.78"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.13"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.99"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.12"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.13"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.7"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "402.1"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "iD Whole Wheat Chapati (10 pieces)",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/7971171b-ed7f-4bfb-b3d4-2191ad86b113.png",
+      "product_link": "https://blinkit.com/prn/id-whole-wheat-chapati-10-pieces/prid/338957",
+      "detail": {
+        "detail_name": "iD Whole Wheat Chapati (10 pieces)",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d10e0c64-680c-45a0-8f56-7c020c2e0be3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6bb43ab4-9af1-4fdb-8046-5c9260ad26c5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/adebcb76-1ef1-45ef-9624-501f4fe5168c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f682fc5-adc4-48b7-b54d-8861fb129395.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/773cf316-c825-42ed-afa1-68d3a39ac069.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Butter Garlic Toast, Whole Wheat",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/f2a6f59e-e8d7-4a55-ad46-1b8391536828.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-butter-garlic-toast-whole-wheat/prid/521811",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Butter Garlic Toast, Whole Wheat",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f2a6f59e-e8d7-4a55-ad46-1b8391536828.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aacd5088-a630-4ea2-b8ba-4ed8935cefac.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ce0c7da-93b8-44ff-b9a7-963849a12634.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/105055cc-ffde-4e91-bbb4-e1a04b7c513f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bdb99dcc-f97e-4457-90a6-54d638f3eb1a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/083529dc-3f41-4aad-94fd-c3c602cd76c3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ca1e46c1-1c91-4519-8a66-c41ae199ad98.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2c44ac01-c25f-4ccc-9e6a-7fb4e55b0acd.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "530 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "53 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "15 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "360 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Zero Maida Pav",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c63488ef-1b66-4cf7-961a-c4af2b40db0b.png",
+      "product_link": "https://blinkit.com/prn/english-oven-zero-maida-pav/prid/611517",
+      "detail": {
+        "detail_name": "English Oven Zero Maida Pav",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/54c33958-e726-4406-9a55-6bb90e879a72.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc59ee86-246f-419d-a3fa-5b17ce8d624a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b9410d00-73d4-4028-89ad-567dcbed8795.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0b1a82e7-66ee-40a9-9b48-d8c466366abf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6c82ac26-ead4-493d-9402-0e817551bfbd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bb5c68e1-4d76-4e00-b7bf-d0c4aefe672b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/665c074c-b142-4fc0-a019-d6aea8d0e348.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/adb4470e-b239-4610-8022-56603429b5ef.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2c928d66-c6c1-4452-97f2-f531572c492c.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "276.43"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.05"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "51.06"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.17"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.05"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.09"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.94"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.59"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "453"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Britannia Breakfast Sandwich White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/dd28173d-dd86-4eb2-9526-4aee5b70a7ff.png",
+      "product_link": "https://blinkit.com/prn/britannia-breakfast-sandwich-white-bread/prid/569651",
+      "detail": {
+        "detail_name": "Britannia Breakfast Sandwich White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dd28173d-dd86-4eb2-9526-4aee5b70a7ff.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e4960264-6eef-4102-ae1f-7185750a9a5b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0d10283c-25e1-4282-9437-54741d1b1121.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d45e9400-b1b2-4860-886c-7c8cfe09e6b6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/05fb5cbc-40ba-4292-9a17-3e27eccc1491.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4b186a76-893e-42fa-9a06-cc80f2057a3e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f2469982-8d0f-48df-bccc-4c2ca63d7b2d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a9da898a-1488-4edd-b2b6-f802451f9026.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f5afb3e8-76e7-469a-a7ae-10f229921b98.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "252 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.2 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "51.2 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.6 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.5 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.4 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.3 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.7 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "436 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Health Factory Zero Maida Milk Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/649ee102-1875-4995-9c8f-2d20516a0c43.png",
+      "product_link": "https://blinkit.com/prn/the-health-factory-zero-maida-milk-bread/prid/548808",
+      "detail": {
+        "detail_name": "The Health Factory Zero Maida Milk Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3c759150-4d04-4c08-be92-a815fa6a12a1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f9e3a6c6-c4d5-43d7-8b8c-a93ff202f7fd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/222419ca-649f-4922-9968-bdb058bc1357.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4c4cb68d-14f6-41bc-820c-69d0b180157e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9aa8bbbc-9d77-4bab-8efb-974276919d16.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bfbb379e-0a81-45b3-9591-810489686493.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "252.39"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "11.57"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "44.44"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "9.26"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "4.12"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.15"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.53"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6.13"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "254.8"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Atta Kulcha",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/347fb3df-6f27-4dce-a49f-4180c5b33810.png",
+      "product_link": "https://blinkit.com/prn/english-oven-atta-kulcha/prid/543904",
+      "detail": {
+        "detail_name": "English Oven Atta Kulcha",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8b30a15e-88a5-4c45-9a8f-1c3a7822b4b7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d1573c6c-b98f-4488-979d-fcb5d89da8a2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/404791bb-2529-4941-88b6-171d63726b93.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9ef95c2c-4429-4084-8391-8d2721d56f12.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/05d1553c-3b6e-4eb1-b9af-2770ddef6b27.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ebc6d597-e0cf-42bd-b37d-38e7e781adf0.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "293.03"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "12.25"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "51.67"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "2.88"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4.15"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.73"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "5.79"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "584"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Zero Maida Whole Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/5411eb99-116b-4dce-8003-d917fd7d9884.png",
+      "product_link": "https://blinkit.com/prn/english-oven-zero-maida-whole-wheat-bread/prid/552991",
+      "detail": {
+        "detail_name": "English Oven Zero Maida Whole Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2e6e70ca-5756-41f3-af48-443a9ae9338b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/63216fbd-0506-47f3-98ba-2031c0a30226.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d55bb616-c4a3-4d1f-8bff-e44f54cd93f8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/04568299-3ed5-436b-a1a7-bf8369cf7211.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1cee4987-fc14-4bac-945d-38d09323465a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cd874724-1ca3-48d3-808a-332159ecdcdf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/51215caa-5407-48e3-ad56-7be50a2ba89a.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "238.34 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.11 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "50.11 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.91 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.01 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.58 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.12 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.12 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "520 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Choco Chip Chocolate Pound Cake",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/5d0d9bc4-9411-4fff-a8fc-d6fa94d9bbbc.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-choco-chip-chocolate-pound-cake/prid/467340",
+      "detail": {
+        "detail_name": "The Baker's Dozen Choco Chip Chocolate Pound Cake",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5d0d9bc4-9411-4fff-a8fc-d6fa94d9bbbc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d6ba1d9f-153a-4345-9c58-cece8d49850d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c44e0941-1a5a-483c-9624-ea325fee1082.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11d27320-d1a4-492c-b8e5-b9e60b64bad2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4d0c07f1-01bd-4e22-99c2-d57e02381449.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a54d0422-ebd2-443a-a88c-09acedda3c76.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/626d27fe-8ebd-4741-aba5-30761b00afd3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f9f3367-799b-40dc-8474-ed2f178427a2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cd6df95b-5832-44ae-ac90-126dcee029a5.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "339.76 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.95 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48.38 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "30.58 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "26.33 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "13.16 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "2.19 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3.35 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "110.30 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Britannia Atta Kulcha",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/aa1267c2-5662-473a-89e6-4180e973f648.png",
+      "product_link": "https://blinkit.com/prn/britannia-atta-kulcha/prid/335820",
+      "detail": {
+        "detail_name": "Britannia Atta Kulcha",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aa1267c2-5662-473a-89e6-4180e973f648.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a8898668-a88d-42ca-84b8-3fb6cd02e554.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ce4e377-afa6-4a14-8617-25cbbbc1c64b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ff22fbce-dbbf-4085-87a3-c65e8b8ddf9e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33ec90c1-7777-4aa0-92dd-982139f2e8ff.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc95136c-45bd-40a5-ac25-386a636e844c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a136b5e1-4d6e-42d1-bcca-d5018edaffff.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "291"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.5"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "56.7"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.4"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.4"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4.3"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.7"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.5"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "1.1"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.6"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4.4"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "592"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Britannia Maida Kulcha",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/779f0f25-80bb-4497-a412-b82aef951cfd.png",
+      "product_link": "https://blinkit.com/prn/britannia-maida-kulcha/prid/335821",
+      "detail": {
+        "detail_name": "Britannia Maida Kulcha",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dca37394-8236-4d88-8b0c-08cbaddcf74f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5139265a-c2c3-49d4-8500-4d84d81feebd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/73743c26-1723-443e-a3a9-ab3bddc17493.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ec6be69e-c858-4279-a215-82da34742a4e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d6e7bd76-2ee0-4c04-a149-b741bd3231ee.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c70fcaf1-6167-430e-a592-9b26d29a754d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/805faacc-b913-4707-a106-2f6907223fbb.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "288kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "55g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.5g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.5g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.5g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "1g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.5g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0g"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Footlong Parmesan Oregano Sub",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/007ea008-b857-4dd5-9005-fb6c4d98601b.png",
+      "product_link": "https://blinkit.com/prn/english-oven-footlong-parmesan-oregano-sub/prid/438517",
+      "detail": {
+        "detail_name": "English Oven Footlong Parmesan Oregano Sub",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/82c19b7b-70ba-4053-ac99-ccaf778b98b9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4d926f8f-4338-4cfa-a2af-fe36fd50af27.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/61d29437-88bd-4517-bb5e-8d8a6d33e102.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d5fbc7f9-a94d-4608-a08e-97ab7ba024dd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8c3109cb-d00e-4faa-8d73-8ad0c8ce8d38.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/00e07fbc-e8a6-48e3-ab1a-f3d2ffd9d069.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4d41373a-533d-4da0-b3ac-85e7a13865dd.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "301.78"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.13"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "59.69"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.17"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.11"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.86"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.64"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.22"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4.99"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "448"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Health Factory Zero Maida Bombay Pav",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/2ff2877f-9299-45e9-93c2-d0f4b956944a.png",
+      "product_link": "https://blinkit.com/prn/the-health-factory-zero-maida-bombay-pav/prid/530070",
+      "detail": {
+        "detail_name": "The Health Factory Zero Maida Bombay Pav",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2ff2877f-9299-45e9-93c2-d0f4b956944a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d3bfc792-a3b8-4738-b665-ba922046f400.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/21718cd8-ee58-4e43-8bd7-816f78e3e174.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9cf93312-93a6-4cbb-96f5-4611965bd255.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2fb1fdb6-8101-4cf5-bcf8-8e4d182427ba.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/872a14a7-e125-4db1-9310-7ac3b89af561.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "250.49"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "12"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "47.45"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.7"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.11"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.41"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.35"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.06"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.00 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7.25"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "358.84"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Garlic Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/fe734f76-29f2-411f-9a00-d633b05afe3d.png",
+      "product_link": "https://blinkit.com/prn/english-oven-garlic-bread/prid/343679",
+      "detail": {
+        "detail_name": "English Oven Garlic Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1babd1ff-9837-4621-8d46-af201a3bc90a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/964620de-1f39-461f-9478-ea5d5107f695.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a6956fb3-d74a-496f-a4ee-91dbef3cb1d4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/058f8132-0877-449d-b845-9b3d98d51284.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/681befce-9fed-4db6-826e-648e8c88fe7c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4287de04-97b9-42f2-962f-521163650a14.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1485ee9a-5722-4167-90fa-fed4c7693245.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/266b602b-54f7-49b0-b8b5-6f2888ece532.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "281.73"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.67"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "56.71"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.94"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.9"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.17"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.39"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.17"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "547"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Britannia Pav",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/480f900d-f561-4499-9748-57275911d36d.png",
+      "product_link": "https://blinkit.com/prn/britannia-pav/prid/366180",
+      "detail": {
+        "detail_name": "Britannia Pav",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/480f900d-f561-4499-9748-57275911d36d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2e67069b-a839-4c9f-b769-210c5d0ea0b7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/76081426-2480-4cda-9a9a-5fa5125686c7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba0102ae-21e7-4871-9399-9ec760bf907e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6267bf9b-55f0-46e2-bad3-b953ec2da898.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9e0ac18a-a981-4bfb-acb3-9ab1310d3935.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/87c54ff7-cc87-4d14-a2f2-97ba4bde952b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5feabdc5-af42-4032-ac41-3fa0bf890154.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "308kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "61g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.5g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.5g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.5g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "1g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.5g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0g"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Health Factory Zero Maida Sourdough Classic Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/d45dd080-c197-4c38-a57e-df9fc067cb1a.png",
+      "product_link": "https://blinkit.com/prn/the-health-factory-zero-maida-sourdough-classic-wheat-bread/prid/611287",
+      "detail": {
+        "detail_name": "The Health Factory Zero Maida Sourdough Classic Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d45dd080-c197-4c38-a57e-df9fc067cb1a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bd8348d6-9b71-4aac-9ad9-0c4778f427c5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c802c589-9d72-4599-9de4-8c9f7e932689.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/83a696f6-b8d5-458a-ab7c-7f1239011e2e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/af9bed77-895c-4938-954b-cb1678100097.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bcfa9403-0207-47ba-bbe9-59705460c1ba.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "259.69"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.91"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "49.49"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.22"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.01"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.27"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "10.01"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "381.57"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Zero Maida Vanilla Pound Cake, Whole Wheat",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/e793a975-bdc2-4221-86a4-9db90a52a7ea.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-zero-maida-vanilla-pound-cake-whole-wheat/prid/467330",
+      "detail": {
+        "detail_name": "The Baker's Dozen Zero Maida Vanilla Pound Cake, Whole Wheat",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e793a975-bdc2-4221-86a4-9db90a52a7ea.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/abef64a9-2629-4222-be23-41439ad4d61c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ca7842ab-c767-4e89-83d0-3e17fc989395.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/34b4324d-be49-4cab-8faf-7489967b7677.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/eed43770-8d80-4192-92bc-6fdf17e72b14.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6c04223b-4797-472b-9514-3d047761bf8e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f6eb7e3-c609-4980-a448-e8e24bf80261.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/be276cb6-4ebf-404f-8ed4-489bbe692536.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/05b84662-dc30-4a1b-a95a-60173565c435.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "379.66"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.02"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "47.63"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "31.3"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "21.62"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "18.34"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "2.08"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "16.26"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.41"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "125.04"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Milk Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/9677d82d-03f2-4e7c-8e56-7b30a70ee801.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-milk-bread/prid/609721",
+      "detail": {
+        "detail_name": "Harvest Gold Milk Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/79931ed2-8cc1-4346-b725-3717fa67b2f6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7d8fc225-e2ee-4cb0-a97f-d1217733ff7a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dff830ce-2a18-43ad-935f-b7ac48e59d25.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f2d90ec8-0bd5-44aa-8cde-82ea936bee87.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ab34f3ed-7472-4691-9b91-cd2f90621a0c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e825c312-f5c5-444f-a1ba-20bd46337f5e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b31ab478-1d9f-40fb-baf2-67297c62ea5e.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "280.14 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.99 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "54.32 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "5.11 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.43 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.1 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.91 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "Not more than 0.05 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.3 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3.03 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "541.46 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Nankhatai Ghee Cookies Cookies",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/4f09ec20-8907-49c9-96ba-ca6de06cd247.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-nankhatai-ghee-cookies-cookies/prid/496701",
+      "detail": {
+        "detail_name": "The Baker's Dozen Nankhatai Ghee Cookies Cookies",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f09ec20-8907-49c9-96ba-ca6de06cd247.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7c82784d-dbe8-4a0a-966d-e11eeb418928.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4b542ac5-959b-4524-8f11-5218dc882726.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5c076704-c4d7-4efa-b81e-af767d987f99.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8b045644-5459-48c1-bece-b52d5dbdb1d5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cffa9e69-3d96-442f-99cd-ed01d3883ea0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fcf4fe56-fcc8-434f-b0ba-a6a2ea08e822.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "520 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "57 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "27 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "26 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "28 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "19 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.67 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "181 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Halka Phulka 100% Chakki Atta Whole Wheat Roti / Chapati",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/a43389dc-8a85-4f52-9882-d77d03d8662f.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-halka-phulka-100-chakki-atta-whole-wheat-roti-chapati/prid/436780",
+      "detail": {
+        "detail_name": "Harvest Gold Halka Phulka 100% Chakki Atta Whole Wheat Roti / Chapati",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a6911803-7d26-4679-a085-d86f94ecce84.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/987482c7-2223-41d2-96e0-08fb7437ac57.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4dcfcc57-e09d-4169-9986-251315739fc4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c84c2447-e121-4021-b583-241da99cf6f5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f78bdb7-2a9c-4f3f-ab82-0897b247d2fa.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "4.9 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "54 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.9 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4.9 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.74 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "4.16 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "9.4 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "163 mg"
+          },
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "246 kcal"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Kulcha",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/5633f6f8-2975-49dd-b4fb-d250de0ee161.png",
+      "product_link": "https://blinkit.com/prn/english-oven-kulcha/prid/82127",
+      "detail": {
+        "detail_name": "English Oven Kulcha",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c275e829-3469-42ad-b10b-ddaed677a2ea.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4ea3941f-82c9-490f-a15f-aee92e3b8d9d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ded42ae-3d1f-4938-b85e-07ef750a875a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3acb8780-abf3-40c0-9263-e42e8be35c30.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fe88d4c1-1ac6-435d-a036-cef3369bfda0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/66de5f30-8118-4548-8af0-c91772ef173e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/855012f0-7a26-4b6e-950b-fcb53d714599.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "261.83"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.78"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.47"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.19"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.87"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.28"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.98"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "469"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Health Factory Zero Maida Burger Bun",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c5284a2e-117d-4065-9d8d-2c359a39e590.png",
+      "product_link": "https://blinkit.com/prn/the-health-factory-zero-maida-burger-bun/prid/540371",
+      "detail": {
+        "detail_name": "The Health Factory Zero Maida Burger Bun",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c5284a2e-117d-4065-9d8d-2c359a39e590.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/24d970e8-3762-42ae-977f-6e6d7d9e09b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5f1aba65-a9bd-4bde-8543-068b2666c898.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/da38b8a0-dc06-4b50-830f-6b032a81f9ec.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8fea3465-a7a5-4fd6-b099-e93443b1a87c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9abe3fff-6059-483b-8f2a-f14da1c1ea28.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "250.49"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "13"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "47.45"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "5"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "4"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.41"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.35"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7.25"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "358.84"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Atta Kulcha",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/d8307ca5-b42c-46b0-b71b-23396f378eed.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-atta-kulcha/prid/526319",
+      "detail": {
+        "detail_name": "Harvest Gold Atta Kulcha",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d8307ca5-b42c-46b0-b71b-23396f378eed.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f04b8c7f-8d39-4c50-99b0-ad6792381916.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/327bd5e7-c180-40e2-a46b-713916be5b9b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4b7aaf65-9e1a-4e5d-b3ac-24578a0ef5b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4870f278-478b-4a97-853f-861bd823eb0e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8631d8be-292c-4945-af3a-200375b41ef7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9ceea5b0-6859-46b5-aa0c-931605079284.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/60f405a0-9b3c-4100-80c2-7d3f8db8c713.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "265 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.2 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "51.4 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.3 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.43 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.88 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.28 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "1.12 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.40 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.15 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "5.6 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "388 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Pizza Base",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/0780817d-4d79-4e2f-abe4-5a5725df31b0.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-pizza-base/prid/65680",
+      "detail": {
+        "detail_name": "Harvest Gold Pizza Base",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cd5fbd2f-2953-4310-994e-c2527d843eeb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/172f1b9c-70b5-4fa0-822f-0f64bce6d084.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/76e48285-339e-4c19-a3b2-6158a8a60457.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d092727f-b238-438b-8d7e-5af0efc30c23.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/32d411cc-5493-48bb-ace6-71d6f56caacf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e1e2f0be-78c8-4273-927f-bbd37ddbf710.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c777712e-6f50-4dbc-bcc1-c210ac661809.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "273 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.4 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.7 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.0 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.18 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.98 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.16 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.93 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.09 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.11 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "Not detected"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3.7 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "581 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Baker's Dozen Dark Chocolate Cookies",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/70ff9291-078b-43e2-bd09-e34b43baf197.png",
+      "product_link": "https://blinkit.com/prn/the-bakers-dozen-dark-chocolate-cookies/prid/549316",
+      "detail": {
+        "detail_name": "The Baker's Dozen Dark Chocolate Cookies",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/45f745ec-7c2e-4985-8953-64f513a48108.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d20b25b4-c6d9-4769-878d-9d7dc7af153a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5d02420f-09b6-4096-96be-f2857d49376c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1e281e0c-4bef-4f51-8dca-30043253d001.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e6f08ef4-11a5-4ee9-a99d-9312669a46e7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/717248d6-5661-4091-8105-356b2429abd2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a0f7dba6-fc61-4e83-8dfa-22706c159f15.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0ecaea3d-6897-48d6-995d-946d6ba171c6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6e700821-d264-4dad-a4d9-cf664d5f5840.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "480 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "66 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "29 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "20 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "21 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "9 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "90 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "The Health Factory Zero Maida Garlic Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/82f103d3-0b3e-4b94-91c8-76b449b474fe.png",
+      "product_link": "https://blinkit.com/prn/the-health-factory-zero-maida-garlic-bread/prid/559224",
+      "detail": {
+        "detail_name": "The Health Factory Zero Maida Garlic Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/82f103d3-0b3e-4b94-91c8-76b449b474fe.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/485423f0-41c6-4c6d-997a-54a354d78001.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/03d7d820-f845-4569-99ac-466331e64cae.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d509291d-d2fa-43a9-b407-c241672045d9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ee7140a6-5a0b-4922-b7a0-3413437f153e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/77a87a19-8f93-4c55-a4c0-f993c1c93682.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2701c407-dabe-4dde-8980-316602754c97.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b9b1589e-887a-4690-867f-4f0d9883b177.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "246.22 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "12.72 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "43.76 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.12 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.12 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.46 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.34 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.00 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.00 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6.84 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "356.80 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Theobroma Double Choco Chip Cookies",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/6da13e46-a722-4d08-96e7-3f2c81862624.png",
+      "product_link": "https://blinkit.com/prn/theobroma-double-choco-chip-cookies/prid/441891",
+      "detail": {
+        "detail_name": "Theobroma Double Choco Chip Cookies",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7d817db6-7796-4e28-8fe2-ffd0e54b8f88.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a770b0b4-bbf6-4867-a9a1-78f70144547b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bc43fb7e-1432-4d95-aad6-4ab682f0d573.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d8333f1b-db2a-4269-af2e-56759954ce72.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ce682b46-f2a1-4ef7-a0b1-108d0f692591.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8adafbac-edc0-4669-9003-29ec163ce28d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/243eaad2-d181-4b36-8e56-d55d24a99854.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba35e06c-27f7-4e2a-a668-bcae50505237.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fc631942-44f9-4599-b1d8-21aa45dc7e40.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.17647"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "63.7647"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "26.0588"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "21.3529"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "7.17647"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "11.8235"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.0080588"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "196.647"
+          },
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "488.0588"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Theobroma Orange Cookies",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/a2352f68-edc5-4790-9d3f-45930a304470.png",
+      "product_link": "https://blinkit.com/prn/theobroma-orange-cookies/prid/560196",
+      "detail": {
+        "detail_name": "Theobroma Orange Cookies",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8b842d1a-27e3-4ce1-ad63-0aa83bd9e3b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3bf02cfc-e2a0-4acd-940f-5aef83436aa9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a255b42a-94c3-4ec7-bbda-7f8687efdbb0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e467fa25-d85d-4bdf-99a7-4537db5a9fb5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0abc56de-0c76-4dac-be91-0a5ac716c8b6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/186778b5-9885-4b6e-93a5-65c7b7590a9b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8372d527-3125-4a4d-bb14-5f15a2010f71.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a3b17401-1eed-4822-90b4-b97337f6ff66.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/273680ef-568d-4c63-96a1-02beed74fada.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/06aab283-ff1c-4fa1-9bbb-73834d8317f0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dd4c1dc1-f484-4e1b-801c-1130396236a2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5d72dc80-52ef-49cc-8a9a-e63da33e9441.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "488.00 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "4.67 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "61.67 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "34.17 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "28.83 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "24.75 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "17.00 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.0148 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "146.25 mg"
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Baker's Loaf Zero Maida Burger Bun by Harvest Gold",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/79ead41a-b5bb-496e-ad5e-324f5180843b.png",
+      "product_link": "https://blinkit.com/prn/bakers-loaf-zero-maida-burger-bun-by-harvest-gold/prid/583526",
+      "detail": {
+        "detail_name": "Baker's Loaf Zero Maida Burger Bun by Harvest Gold",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/44b2b587-fcbc-4a69-8fef-2671231d29be.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7c55a3c5-48be-47f0-aa7e-7cc3146ea759.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5e46a1f4-d800-45d6-8796-6e94919006f5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5afe42a5-2618-4348-8ef3-5ecea172b1e7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6e8410f7-0c30-4794-984f-63cab3c5283a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8880422f-2948-4226-9b82-7d94a7058325.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d787e2c0-77fd-49ed-ba93-c0e9dd00d0f6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/15d0baec-7421-4281-b23f-7583e989d63d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/66d2dda4-d772-4fdc-8c5a-b82333cb471b.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "275.77 Kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "11.14 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.14 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.56 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "5.10 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.52 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.38 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "Not detected"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "Not detected"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7.71 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "502.81 mg"
+          }
+        ],
+        "error": null
+      }
+    }
+  ]
+}

@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+import time
 from pathlib import Path
 import re
 import unicodedata
@@ -109,12 +110,135 @@ def build_driver(headless: bool) -> webdriver.Chrome:
     return webdriver.Chrome(service=service, options=options)
 
 
+def harvest_visible_cards(driver: webdriver.Chrome, cards: Dict[str, str]) -> None:
+    """
+    Blinkit virtualizes the product list, so we need to capture card HTML
+    while it is attached to the DOM before it scrolls out of view.
+    """
+
+    payload = driver.execute_script(
+        """
+        const container = document.querySelector('#plpContainer');
+        if (!container) {
+            return [];
+        }
+        return Array.from(
+            container.querySelectorAll('div[role="button"][id]')
+        ).map((node) => [node.id, node.outerHTML]);
+        """
+    ) or []
+
+    for card_id, outer_html in payload:
+        if not card_id or card_id in cards:
+            continue
+        cards[card_id] = outer_html
+
+
+def wait_for_initial_cards(
+    driver: webdriver.Chrome, timeout: int = 15, min_cards: int = 8
+) -> None:
+    def enough_cards(_driver: webdriver.Chrome) -> bool:
+        return bool(
+            _driver.execute_script(
+                """
+                const container = document.querySelector('#plpContainer');
+                if (!container) {
+                    return 0;
+                }
+                return container.querySelectorAll('div[role="button"][id]').length;
+                """
+            )
+            >= min_cards
+        )
+
+    try:
+        WebDriverWait(driver, timeout).until(enough_cards)
+    except Exception:
+        # Falling back to whatever we have so far is fine; diagnostics will surface issues.
+        pass
+
+
+def feed_near_bottom(driver: webdriver.Chrome) -> bool:
+    return bool(
+        driver.execute_script(
+            """
+            const container = document.querySelector('#plpContainer');
+            if (!container) {
+                return true;
+            }
+            const top = container.scrollTop || 0;
+            const height = container.clientHeight || 0;
+            const scrollHeight = container.scrollHeight || 0;
+            if (!scrollHeight) {
+                return false;
+            }
+            return top + height >= scrollHeight - 24;
+            """
+        )
+    )
+
+
+def scroll_listing_view(driver: webdriver.Chrome) -> None:
+    driver.execute_script(
+        """
+        const container = document.querySelector('#plpContainer');
+        if (container) {
+            container.scrollBy(0, container.clientHeight * 0.85);
+        }
+        window.scrollBy(0, window.innerHeight || 800);
+        """
+    )
+
+
+def collect_listing_cards(
+    driver: webdriver.Chrome,
+    pause: float = 1.5,
+    max_rounds: int = 60,
+    stagnation_limit: int = 8,
+) -> Dict[str, str]:
+    cards: Dict[str, str] = {}
+    stagnation = 0
+    bottom_plateau = 0
+
+    for _ in range(max_rounds):
+        before = len(cards)
+        harvest_visible_cards(driver, cards)
+        scroll_listing_view(driver)
+        time.sleep(max(pause, 0.0))
+        harvest_visible_cards(driver, cards)
+
+        if len(cards) == before:
+            stagnation += 1
+        else:
+            stagnation = 0
+
+        if feed_near_bottom(driver):
+            bottom_plateau += 1
+        else:
+            bottom_plateau = 0
+
+        if stagnation >= stagnation_limit and bottom_plateau >= 2:
+            break
+
+    # Scroll back to the top to re-capture any cards Blinkit re-renders.
+    driver.execute_script("window.scrollTo(0, 0);")
+    time.sleep(max(pause, 0.0))
+    harvest_visible_cards(driver, cards)
+
+    return cards
+
+
 def fetch_page_source(driver: webdriver.Chrome, target: str, timeout: int) -> str:
     driver.get(target)
     WebDriverWait(driver, timeout).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "#plpContainer"))
     )
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    wait_for_initial_cards(driver)
+    time.sleep(2.0)
+    collected_cards = collect_listing_cards(driver)
+    if collected_cards:
+        combined_markup = "".join(collected_cards.values())
+        return f"<html><body><div id='plpContainer'>{combined_markup}</div></body></html>"
     return driver.page_source
 
 
