@@ -1,0 +1,1332 @@
+{
+  "generated_at": "2025-12-14T11:00:34.300043+00:00",
+  "listing_target": "https://blinkit.com/cn/dairy-breakfast/bread-pav/cid/14/953",
+  "diagnostics": {
+    "plp_container_found": true,
+    "candidate_cards": 60,
+    "cards_with_names": 60,
+    "cards_with_images": 18,
+    "cards_with_links": 18,
+    "first_card_html": "<div class=\"tw-relative tw-flex tw-h-full tw-flex-col tw-items-start tw-gap-0.5 tw-pb-3 tw-bg-indigo-050 tw-border-[0.5px] tw-border-grey-200\" data-pf=\"reset\" id=\"347638\" role=\"button\" style=\"min-width: 100%; border-radius: 8px; justify-content: space-between; grid-column: span 2; box-shadow: rgba(0, 0, 0, 0.04) 2px 2px 8px; background-color: rgb(255, 255, 255);\" tabindex=\"0\">\n <div class=\"tw-relative tw-w-full tw-overflow-hidden tw-px-2.5\" data-pf=\"reset\" style=\"border-radius: 8px;\">\n  <div class=\"tw-overflow-hidden tw-flex tw-flex-col\" data-pf=\"reset\" style=\"width: 100%; height: 100%; border-radius: 8px; aspect-ratio: 1 / 1;\">\n   <img class=\"tw-h-full tw-w-full tw-transition-opacity tw-opacity-100\" data-pf=\"reset\" src=\"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.png\" style=\"transform: scale(1);\" width=\"100%\"/>\n  </div>\n  <div data-pf=\"reset\" style=\"position: absolute; top: 6px; right: 6px;\">\n   <div data-pf=\"reset\" style=\"height: 12px;\">\n    <div class=\"tw-overflow-hidden tw-flex tw-flex-col\" data-pf=\"reset\" style=\"width: 17px; height: 12px; aspect-ratio: 1 / 1;\">\n     <img class=\"tw-h-full tw-w-full tw-transition-opacity tw-opacity-100\" data-pf=\"reset\" src=\"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/ui/ad_without_bg.png\" style=\"transform: scale(1);\" width=\"100%\"/>\n    </div>\n   </div>\n  </div>\n </div>\n <div class=\"tw-w-full tw-px-3\" data-pf=\"reset\">\n  <div class=\"tw-flex tw-w-full tw-flex-wrap tw-gap-1\" data-pf=\"reset\" style=\"margin-bottom: 7px;\">\n   <div class=\"tw-bg-grey-100 tw-text-black-100\" data-pf=\"reset\" style=\"border-radius: 4px; padding: 0px 6px;\">\n    <div class=\"tw-flex tw-items-center tw-gap-0.5\" data-pf=\"reset\">\n     <div class=\"tw-w-2.5\" data-pf=\"reset\">\n      <div class=\"tw-overflow-hidden tw-flex tw-flex-col\" data-pf=\"reset\" style=\"width: 100%; height: 100%; aspect-ratio: 1 / 1;\">\n       <img class=\"tw-h-full tw-w-full tw-transition-opacity tw-opacity-100\" data-pf=\"reset\" src=\"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png\" style=\"transform: scale(1);\" width=\"100%\"/>\n      </div>\n     </div>\n     <div class=\"tw-text-050 tw-font-bold tw-uppercase\" data-pf=\"reset\" style=\"color: var(--colors-black-900);\">\n      8 mins\n     </div>\n    </div>\n   </div>\n  </div>\n  <div class=\"tw-flex tw-w-full tw-flex-col\" data-pf=\"reset\">\n   <div class=\"tw-mb-2 tw-flex tw-flex-col tw-text-400\" data-pf=\"reset\" style=\"height: calc(3em + 0.375rem);\">\n    <div class=\"tw-mb-1.5\" data-pf=\"reset\">\n     <div class=\"tw-text-300 tw-font-semibold tw-line-clamp-2\" data-pf=\"reset\" style=\"color: var(--colors-black-900);\">\n      Bonn Zero Maida 100% Atta Whole Wheat Bread\n     </div>\n    </div>\n    <div class=\"tw-flex tw-items-center\" data-pf=\"reset\">\n     <div class=\"tw-text-200 tw-font-medium tw-line-clamp-1\" data-pf=\"reset\" style=\"color: var(--colors-grey-700);\">\n      400 g\n     </div>\n    </div>\n   </div>\n   <div class=\"tw-flex tw-items-center tw-justify-between\" data-pf=\"reset\">\n    <div data-pf=\"reset\">\n     <div class=\"tw-text-200 tw-font-semibold\" data-pf=\"reset\" style=\"color: var(--colors-black-900);\">\n      ₹53\n     </div>\n     <div class=\"tw-text-200 tw-font-regular tw-line-through\" data-pf=\"reset\" style=\"color: var(--colors-grey-600);\">\n      <span data-pf=\"reset\">\n       <span class=\"\" data-pf=\"reset\">\n        ₹55\n       </span>\n      </span>\n     </div>\n    </div>\n    <div class=\"tw-rounded-md tw-font-okra tw-flex tw-items-center tw-justify-center tw-flex-col tw-font-semibold tw-overflow-hidden tw-text-300 tw-px-0 tw-gap-0.5 tw-min-w-[66px] tw-min-h-[32px] tw-bg-green-050 tw-border tw-border-base-green tw-text-base-green\" data-pf=\"reset\" role=\"button\" style=\"padding-bottom: 4px; padding-top: 4px;\" tabindex=\"0\">\n     <div class=\"\" data-pf=\"reset\">\n      ADD\n     </div>\n    </div>\n   </div>\n  </div>\n </div>\n</div>\n",
+    "block_page_detected": false
+  },
+  "products": [
+    {
+      "listing_name": "Bonn Zero Maida 100% Atta Whole Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.png",
+      "product_link": "https://blinkit.com/prn/bonn-zero-maida-100-atta-whole-wheat-bread/prid/347638",
+      "detail": {
+        "detail_name": "Bonn Zero Maida 100% Atta Whole Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c15f05ac-7c43-4c8b-8afa-c784f09368c1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fa33fabe-9732-4423-8af8-e5b365a3e92d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6f2694e5-4ff8-4c7d-8f79-6e95024381cb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c0a8e2d5-9ae6-49dc-8dda-2df199391c43.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/86457f51-fb2f-4281-bd72-de2e6e2e5222.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f3939102-7968-4673-81ff-9ff63ce02140.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "264"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.7"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "49.68"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.48"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.58"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.95"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.4"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.46"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.77"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.23"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.4"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "577"
+          }
+        ],
+        "ingredients": null,
+        "description": "Bonn is a 35 years old bread and bakery company which manufactures the best quality of breads and bakery products. We source the premium raw materials and produce best quality of breads and bakery which can be consumed daily.",
+        "fssai_license": "10019064001813",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/9b3e11ab-9a5d-463d-b098-379a04ce5b7e.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-white-bread/prid/23779",
+      "detail": {
+        "detail_name": "Harvest Gold White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/72778694-98ad-4921-990b-499604bd369f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9ce856af-87d5-430d-bdc8-a0bd2e734c45.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/baf70427-cc53-4a47-a7bf-646e5bf20a4e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5e10f532-a2b7-4fda-84e9-f1f13630fd54.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c5ec6fa7-65bb-4d6b-b571-1fd17806ee62.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "247.5"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.2"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.2"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.72"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.18"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.17"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.35"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.52"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "3"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "492"
+          }
+        ],
+        "ingredients": "Wheat flour (Maida) (53%), Sugar, Wheat protein (Gluten), Yeast, Salt, Edible Refined Vegetable Oil, Soya Flour, Class II Preservatives (E282), Permitted Emulsifier [E481i], Acidity Regulator (E260) and Antioxidant (E300)",
+        "description": "Kick start your day with Harvest Gold Bread. A small loaf of soft bread enriched with goodness of wheat and a characteristic aroma of brick-oven bakeries. Pave your way towards a healthy life with a hearty breakfast.",
+        "fssai_license": "10013013000537",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Suchali's Artisan Bakehouse Country Sourdough",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/611ffbee-1b24-4db1-9772-d9b022cec155.png",
+      "product_link": "https://blinkit.com/prn/suchalis-artisan-bakehouse-country-sourdough/prid/460620",
+      "detail": {
+        "detail_name": "Suchali's Artisan Bakehouse Country Sourdough",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4be2311e-8af6-4f28-a0ef-b003ce8c0d9c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/87050fe9-4f34-47a1-90ae-965463804a9c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9370d2d4-2aac-402e-87dc-124c3b532434.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5f43e38c-a742-45aa-9063-01c2294e5f1b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ea5dd14-d614-40e6-9993-7b6c6940ab34.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4201b7f3-085c-49b1-937a-c61a798bec41.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/faf55fb2-5916-496b-b3f0-02b66d9570c5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6290bd0d-7113-451f-81f6-54df60995400.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "231.23"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.24"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "47.6"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.05"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.43"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.212"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7.75"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "542.51"
+          }
+        ],
+        "ingredients": "Refined Wheat Flour (Maida), Water, Whole Wheat Flour (Atta), Wheat Gluten, Salt",
+        "description": "Natural Leavened Bread With No Commercial Yeast.",
+        "fssai_license": "10821999000423",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Suchali's Artisan Bakehouse Buttercrust Milk Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/0d2fdea5-5af7-497d-8c09-d2e70dbe66f2.png",
+      "product_link": "https://blinkit.com/prn/suchalis-artisan-bakehouse-buttercrust-milk-bread/prid/460626",
+      "detail": {
+        "detail_name": "Suchali's Artisan Bakehouse Buttercrust Milk Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/20eed0f7-343c-49c7-bffd-042b75136832.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d5c112ca-afa9-425b-b288-fccb0898bcd2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4188166d-c65d-4498-a811-4ab19152c6de.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8050a0a2-f18a-48b2-9f64-33b86b1f2f2f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5e90c8d7-800b-4877-bede-0f2af5424dc9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c5f87110-48eb-48d3-b490-1c3b9d876a57.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/291ade74-8762-4cf8-bf49-df01736a28c7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/348cc8bd-9173-4415-9602-489d19ee67d8.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "292.1"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.6"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "44.4"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.7"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "5.2"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "9.1"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "5.4"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.3"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "5.33"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "366.9"
+          }
+        ],
+        "ingredients": "Refined White Flour (Maida), Double Toned Milk* (27%), Unsalted Butter, Sugar, Water, Wheat Gluten, Fresh Yeast, Salt\nOn recipe basis",
+        "description": "This Version of the Classic Milk bread with a delectable golden butter crust on the outside and fluffy inside. It is super soft, slighly sweet, buttery and milky. This is the result of using milk as the main liquid ingredient of the bread dough. It is perfect for breakfast toasts or for sandwiches, both savoury and sweet.",
+        "fssai_license": "10821999000423",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Footlong Garlic Sub",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/721bb08c-8b7e-4c84-974a-00b1ffbd9e76.png",
+      "product_link": "https://blinkit.com/prn/bonn-footlong-garlic-sub/prid/464205",
+      "detail": {
+        "detail_name": "Bonn Footlong Garlic Sub",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7e1e7078-2040-496c-8383-e65fe15455f1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/96ff5f0d-7192-4867-b733-1c58fe2ea4cb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5cb57efe-199f-4f62-ad8f-e76b8c83f1b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/38b654a3-f241-439a-898d-34d1850aff81.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f4090dab-eed3-4bfa-910e-350c95e2efa4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90cfaa92-1b00-4e56-a06b-39de3535c00b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/600e90bc-df8a-40fb-9d08-83c3e79aecd6.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "303 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.64 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "58.40 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.69 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.51 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.51 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.36 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.29 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.86 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.15 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.28 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "386 mg"
+          }
+        ],
+        "ingredients": null,
+        "description": "Garlic Foot Long Bread have combined the natural properties of garlic with the wholesome goodness of a loaf of bread. The result comes out in the form of luscious garlic breads that have many health benefits along with great taste and freshness. Garlic bread is a healthy option for daily diet.",
+        "fssai_license": "10019064001813",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold 100% Atta Whole Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/5b0b324b-9b14-4b97-9aef-c8045b734e95.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-100-atta-whole-wheat-bread/prid/448096",
+      "detail": {
+        "detail_name": "Harvest Gold 100% Atta Whole Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/efd68d39-86f9-41cc-8442-b98be20ee317.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae4380c9-ce34-48ad-b644-3d557dbfd642.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8d621423-2ced-42ac-a543-cff18d1f62af.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b78ce38-7a07-4fb2-844f-eb0cf1587130.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2e6588b4-7231-4d69-9aee-47e1872aac43.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8a4f18ac-88a7-4cfb-b3a2-58f43a584427.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f824907-f104-4a6c-bea7-d635eb39978a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4bb1c8c3-9b8a-459d-a6ae-fc1590a8fdb5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/55e08d7c-99e2-4e05-9a8b-b497a682c72a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/93b057cf-d8dc-4fed-ae50-fae049993d05.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/44e328b1-37b5-4ade-b3d1-da7689967413.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "247.07"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.09"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "46.57"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.78"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.69"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.27"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.34"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.93"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6.38"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "471.23"
+          }
+        ],
+        "ingredients": "Whole Wheat Flour (Atta) (62.2%), Sugar, Gluten, Yeast, Iodized Salt, Edible Vegetable Oil (Refined Palmolein Oil, Refined Soybean Oil,), Milk Solids, Preservatives (282, 200), Food Color (150a), Emulsifier (472e), Acidity Regulators {341(i), 270, 297}, Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat and Milk ingredients",
+        "description": "\"Choose the wholesome goodness of our Fibre-rich Harvest Gold 100% Atta Bread made with ZERO Maida, that provides up to 30% of the daily fibre needed in just 4 slices!\nSwitch today to add nourishment to your breakfast and transform your day. Kyunki, Hi-Fibre bread se rahe tummy khush. Aur fir, tummy khush to aap khush!\"",
+        "fssai_license": "10013013000537",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Protein Chef 58g Protein Multigrain Bread (Brown Bread)",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/ba859ee5-7770-47e8-b84d-c453a9a302b4.png",
+      "product_link": "https://blinkit.com/prn/protein-chef-58g-protein-multigrain-bread-brown-bread/prid/555448",
+      "detail": {
+        "detail_name": "Protein Chef 58g Protein Multigrain Bread (Brown Bread)",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba859ee5-7770-47e8-b84d-c453a9a302b4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/da51abfe-5a41-4701-b0f0-99f4a5e867dd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2e4743ed-a641-4306-91c2-8ed853e5c3ca.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc8bf06f-5c3b-48ca-a4f7-01c007250797.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/99298477-719f-4fdf-a035-648db1ea42f5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1cf5bfd3-88c0-4357-a213-d64f7324e4b8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2fc7ecc4-141e-4058-912f-e5cce5e829f3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dbdd4a10-8771-4104-a4cd-3078a6a6fbd8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6989d8d6-0b82-48d2-a1c6-021f12ef5cda.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fde16247-d17d-4913-8f28-cd6042ba053f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/25ab94f0-b9ac-4e43-acb3-68654b9d7671.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "279.5"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "18"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "36"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "7"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "6"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "300"
+          }
+        ],
+        "ingredients": "Atta (100% Whole Wheat Flour), Super Foods Blend (Soy Flour, Flax, Peanuts, Sesame Seeds, Rolled Oats), Vital Wheat Protein, Yeast, Sugar, Edible Common Salt, Edible Vegetable Oil (Refined Sunflower Oil), Vinegar, Cultured Wheat Flour.",
+        "description": "Protein Chef’s superfood is crafted with flax seeds, peanuts, sesame seeds, oats, and soy, making each slice high-protein and fiber-rich. It is also free from maida and palm oil. Why choose a regular atta bread, whole wheat bread, brown bread or multigrain bread when you can have the goodness of all in one bread, Protein chef zero maida 5 superfood multigrain bread.",
+        "fssai_license": "11222999000278",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Paushtaa Multigrain Sourdough Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/683e26ca-367d-4ad1-9c69-56e24e5a4328.png",
+      "product_link": "https://blinkit.com/prn/paushtaa-multigrain-sourdough-bread/prid/474366",
+      "detail": {
+        "detail_name": "Paushtaa Multigrain Sourdough Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0ba20ac1-840e-4757-8180-535f13eb3900.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8ca853b7-edb6-40ea-983b-e02002f9fde8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cdc0f6b2-25e0-4a64-9cea-05aba8a44177.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7fd7b07f-e2ea-427b-93e9-fccec977c2ed.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4236e9cd-3b30-48cb-b1a8-1c0f4da13823.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bdcc3188-44e1-434b-9399-3d0d25b28842.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aaa6398e-eee0-4117-b70a-1434cd5d4d70.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4305fee4-2088-4822-b5ab-b102e5aa0fa1.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "297 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "55g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "5g"
+          }
+        ],
+        "ingredients": "whole wheat Flour , Water, Cold pressed sunflower oil, Multigrain seeds, Yeast, Rock salt",
+        "description": "Paushtaa’s Multigrain Sourdough Bread – Sourdough + Multigrain\n• Paushtaa’s multigrain sourdough bread is the perfect blend of taste and health to start your day. \n• This bread contains no sugar\n• Sourdough is naturally fermented which makes it way more heart and gut friendly than regular white or wheat breads\n• Paushtaa breads are handcrafted using genuine high-quality organic ingredients \n• The breads contains no chemicals (not even improvers or conditioners), no preservatives, and no flavours/ colours\n• Its never too late to start being a healthier you!",
+        "fssai_license": "10821005000191",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/136058ed-249c-4cad-824c-27cb44848e17.png",
+      "product_link": "https://blinkit.com/prn/bonn-white-bread/prid/558862",
+      "detail": {
+        "detail_name": "Bonn White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/770cffa9-bb00-48ac-829f-e35c77d37c31.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4a0050a3-c850-4fa1-ac80-b6611e0ee57b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f7d44228-9aa7-48f3-a8d1-f30565bcff61.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7fd221d8-2778-4610-9e05-6851613125ec.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c49bd355-ba27-4a95-8856-5b1c9d0e4950.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4a259974-e485-49dc-9c4c-c89678ea83d7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f3343cf-f36a-42d0-941a-422310521430.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "232 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.89 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48.43 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.93 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.81 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.83 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.24 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.17 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.31 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.48 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 mg"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.55 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "453 mg"
+          }
+        ],
+        "ingredients": null,
+        "description": null,
+        "fssai_license": "10012063000077",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Harvest Gold Hearty Brown Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/df3666bc-c07b-4a71-909a-63d829ebaed0.png",
+      "product_link": "https://blinkit.com/prn/harvest-gold-hearty-brown-bread/prid/24194",
+      "detail": {
+        "detail_name": "Harvest Gold Hearty Brown Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cccad207-5fea-4c84-ba19-8edcc1ed627a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b987090-a51d-43e0-8285-b0cf215c71b0.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/78bd314b-5be2-42fd-9d86-ee46d0335292.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f0412536-e79e-4703-aac2-cd54e98939b9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7bfb96e7-4f48-409a-8f54-f5d82d0fd1c7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2aa1e26b-29a6-4d96-99d3-26085059d115.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d074aa88-aa93-433e-adc6-f4bbb383df2d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cf90fbc5-e077-4805-912d-1b0399124f12.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ded48b2-b0dc-4e42-b0e4-7462deebb4d2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/28dd85ba-5d34-408b-a81a-03d87c555888.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a1103a28-77b9-4073-a2b1-cf5fa61e8a1d.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "248.29"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "9.18"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48.44"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.08"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.96"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.98"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.3"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "4.92"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "425.23"
+          }
+        ],
+        "ingredients": "Whole Wheat Flour (Atta) (32.7%), Refined Wheat Flour (Maida) (27.3%), Yeast, Sugar, Gluten, Wheat Bran, Iodized Salt, Edible Vegetable Oil (Refined Palmolein Oil, Refined Soyabean Oil), Preservatives (282, 200), Food Color(150a), Emulsifiers (472e), Acidity Regulators {341(i), 270, 297}, Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk and Barley ingredients",
+        "description": "Transform your daily breakfast with Delhi's most loved bread, and add up to 20% of your daily fiber need to your diet with just 4 slices.Harvest Gold Hearty Brown bread has goodness of atta, naturally free from cholesterol and zero trans fat that keeps your \"tummy happy\"",
+        "fssai_license": "10013013000537",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Double Protein Bread (64 g) Zero Maida Multigrain",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/8f972e15-a271-4765-84ed-467391175bd7.png",
+      "product_link": "https://blinkit.com/prn/double-protein-bread-64-g-zero-maida-multigrain/prid/530684",
+      "detail": {
+        "detail_name": "Double Protein Bread (64 g) Zero Maida Multigrain",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f972e15-a271-4765-84ed-467391175bd7.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3afe9c53-d091-4206-94e1-496b865c8a90.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5759a993-820c-4f40-ab55-928374349479.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2634b704-f205-4aaa-98b4-d145145dd0cf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/efc40ad2-aca8-4402-bf92-d2c774dbc961.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fed937a1-431f-49cf-bcfc-341365ffd435.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/32fd6866-5e2b-49bd-88e0-b970f2cc5cc5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b237d6e6-e808-43be-a25d-8fd13520654f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc576e2a-0e6f-4ad2-b6a9-ad97df8bb98a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3adce481-78f0-4596-98fc-7955a0df91bd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bede6c89-0387-4845-a1d5-3196b5fdc87f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8358ccfc-291d-4176-aff9-88a0f4acb625.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e1241aa7-3002-4d96-ba29-755eb6011890.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "270.3kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "23.4g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "32.2g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.5g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.1g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "5.3g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.5g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0.0g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0.0g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "12.9g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "435.6mg"
+          }
+        ],
+        "ingredients": "Atta (100% Whole Wheat Flour), High Protein Blend (Peanut Flour, Vital Wheat Protein, Soy Protein Isolate), Yeast, Rolled Oats, Sugar, Edible Common Salt, Edible Vegetable Oil (Refined Sunflower Oil), Vinegar, Cultured Wheat Flour.",
+        "description": "Your daily requirement of protein intake simplified with our Protein chef high protein Bread made with our inhouse high protein flour mix which contains a mix of healthy seeds and nuts flour. Each slice of protein chef bread is more than one egg worth of protein, delivering 6.3g protein along with 3.5g fiber. It contains No Maida, no palm oil and no artificial flavours.",
+        "fssai_license": "11222999000278",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Brown Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/0b267148-c2c6-4eae-9ecd-1e9a83569e3a.png",
+      "product_link": "https://blinkit.com/prn/english-oven-brown-bread/prid/18396",
+      "detail": {
+        "detail_name": "English Oven Brown Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/051c9d54-3c10-4e36-88c8-c64ef8cf39dc.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ceae944e-8f45-4834-bc66-5bb62febccb1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e7f09b01-0fe7-4b6a-be32-330d2c76a62d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/648c43f9-db08-4dd0-8223-544eca90a7e6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8bcd274d-47b5-415e-af0f-52d320d424bf.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fb440ce9-3681-4779-8e6b-df4f351dc097.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7636fd4c-b101-4054-98e2-8ded4822159f.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "251.29"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.44"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "50.76"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.86"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.04"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.61"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.56"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "8.1"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "431"
+          }
+        ],
+        "ingredients": "Refined Wheat Flour [Maida (44%)], Wheat Flour [Atta (44%)], Sugar, Yeast, Iodized Salt, Edible Vegetable Oil (Rice Bran), Wheat Gluten, Preservative (282), Roasted Malt Powder, Wheat Bran, Emulsifiers [472e, 471, 481(i)], Acidity Regulator (260), Antioxidant (300) and Flour Treatment Agent (923)",
+        "description": "English Oven Brown Bread is a healthy and nutritious daily bread which is made with the richness of atta. It can be used to prepare sandwiches, toast, etc.",
+        "fssai_license": "10012051000068",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Kulcha Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/bd051473-10a6-4a83-982f-467425ef1bd2.png",
+      "product_link": "https://blinkit.com/prn/bonn-kulcha-bread/prid/273399",
+      "detail": {
+        "detail_name": "Bonn Kulcha Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bd051473-10a6-4a83-982f-467425ef1bd2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e9edc387-9184-433f-96cb-8f6a50a1514e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/86e72593-670e-4383-a6b5-d23aa18cf494.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f26ecc19-180c-4131-af21-713251057ee6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e7b94e69-1ca8-4bca-9c37-5f12d34f5981.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/46526914-146e-4e0a-9e82-51804081101c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a727cbbd-1465-41fd-a741-fa3817c09c36.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "258"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.95"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "47.39"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "2.38"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "1.32"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "4.21"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.79"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "1.65"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.68"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "2.33"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.6"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "254"
+          }
+        ],
+        "ingredients": null,
+        "description": "Bonn is a 35 years old bread and bakery company which manufactures the best quality of breads and bakery products. We source the premium raw materials and produce best quality of breads and bakery which can be consumed daily.",
+        "fssai_license": "10019064001813",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Suchali's Artisan Bakehouse Olive & Rosemary Sourdough",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/56915019-187b-4939-8327-6647fae0ae12.png",
+      "product_link": "https://blinkit.com/prn/suchalis-artisan-bakehouse-olive-and-rosemary-sourdough/prid/460623",
+      "detail": {
+        "detail_name": "Suchali's Artisan Bakehouse Olive & Rosemary Sourdough",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c920914a-c43c-4583-a0e4-4d5e3d31f278.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/04a52f63-31ba-4aa1-b8b4-cda0263b9bc8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/92a21f53-b8e3-4d60-b140-3c025bd7b668.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33a177cf-dbb3-4698-83cc-5a2aa8fbadb4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/52ce8181-07f4-4e64-b7cc-3ea741b68b11.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6271fc58-04ad-4163-950e-81351210fb46.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b7d2df3-ec09-4bb8-a514-14c9891e8b99.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/babbe57c-4d20-4c05-a71d-b8396e60800a.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "236.58"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "8.97"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "46.53"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.05"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "1.62"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.784"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.836"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "7.29"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "647.1"
+          }
+        ],
+        "ingredients": "Refined Wheat Flour (Maida), Water, Green Sliced Olives (10%), Whole Wheat Flour (Atta), Wheat Gluten, Salt, Dried Rosemary (0.07%)",
+        "description": "Natural Leavened Bread With No Commercial Yeast.",
+        "fssai_license": "10821999000423",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "English Oven Zero maida 100% Atta/ Wheat Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/7ed1504b-89a7-4479-8eb1-f25c088ed043.png",
+      "product_link": "https://blinkit.com/prn/english-oven-zero-maida-100-atta-wheat-bread/prid/383401",
+      "detail": {
+        "detail_name": "English Oven Zero maida 100% Atta/ Wheat Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a9254c81-6361-43ca-a8cc-cf31945d11a4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0eb12eb0-5bd0-4453-9302-4e2fdf4d41b6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2e3c89ca-e325-4092-93ac-5be99c925810.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a63b9f8f-9d00-4eca-b1cc-87def2a99049.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/08d59a69-586f-4eaa-80ef-d068ccc1150a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33146586-e4e4-4e5e-a3b2-ac5653166207.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b2f20877-a66c-4176-af68-e13b82517166.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "290.56"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.26"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "55.55"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "6.13"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "2.48"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.8"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.21"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "9.86"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "388"
+          }
+        ],
+        "ingredients": "Whole Wheat Flour (Atta-87%), Wheat Gluten, Sugar, Yeast, Iodized Salt, Edible Vegetable Oil (Rice Bran), Preservative (282), Roasted Malt Powder, Emulsifiers [471, 472e, 481], Flour Treatment Agents [170(i), 510, 923, 1100], Antioxidants [300].",
+        "description": "Healthy and nutritious brown bread made with whole wheat flour and cultured with yeast. It is made with natural ingredients and contains no artificial colours and flavours. Brown bread is suitable to be enjoyed with an accompaniment of your choice. Bread is the Englishman's breakfast that has been loved all over the world. This bread is both healthy and tasty when enjoyed with butter or jam, or made according to the recipe of your choice. Have a king's breakfast by having a sandwich with some eggs and milk.",
+        "fssai_license": "10016063000826",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Sesame Burger Bun Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/adfa0944-bbef-4c87-ad9f-923762f76fa4.png",
+      "product_link": "https://blinkit.com/prn/bonn-sesame-burger-bun-bread/prid/358528",
+      "detail": {
+        "detail_name": "Bonn Sesame Burger Bun Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/adfa0944-bbef-4c87-ad9f-923762f76fa4.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0e399533-2864-45c2-8b9c-a1cd00b851ab.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/178d2e62-433a-43b9-860e-f9c56a954b0c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d07b355b-f4ba-4d2a-8ba8-b6cdeb803790.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e0255a76-b9c3-427c-a3a0-5b2f5b20f97c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d07f41f5-40d0-4a14-82ed-76efa9407ec3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ff544d4-cf44-4ea7-9990-a508cbbb599e.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "275 kcal"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "7.88 g"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "52.87 g"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "9.44 g"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "8.39 g"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "3.17 g"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "1.06 g"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.93 g"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.49 g"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "1.42 g"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0 g"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.68 g"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "448 mg"
+          }
+        ],
+        "ingredients": null,
+        "description": "Baked to perfection, these Burger Buns are deliciously fluffy and soft baked buns. Healthy and tasty, these can be truly savoured with cooked patties and veggies as a perfect evening snack.",
+        "fssai_license": "10019064001813",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn Garlic Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/a8e9f540-09d5-4b4f-86d9-3f6a2ae39026.png",
+      "product_link": "https://blinkit.com/prn/bonn-garlic-bread/prid/273397",
+      "detail": {
+        "detail_name": "Bonn Garlic Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a8e9f540-09d5-4b4f-86d9-3f6a2ae39026.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11df761c-f5dd-41c4-b559-f537d38177bd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/24ea43ce-1ea5-4c6d-91c4-9c6ee3ab9620.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7cb569fe-86db-4cd4-841b-7e356c48f73b.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f8d5741c-f253-40aa-a604-517a01a25921.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "294"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "10.4"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "56.46"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "3.63"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.45"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "2.46"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.82"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.7"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.26"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.96"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "2.24"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "619"
+          }
+        ],
+        "ingredients": null,
+        "description": "Bonn is a 35 years old bread and bakery company which manufactures the best quality of breads and bakery products. We source the premium raw materials and produce best quality of breads and bakery which can be consumed daily.",
+        "fssai_license": "10019064001813",
+        "error": null
+      }
+    },
+    {
+      "listing_name": "Bonn White Bread",
+      "listing_image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/cb369f43-1432-42e6-b5e3-a639ab005ca7.png",
+      "product_link": "https://blinkit.com/prn/bonn-white-bread/prid/652310",
+      "detail": {
+        "detail_name": "Bonn White Bread",
+        "hero_images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/88a81d37-a09b-4be2-8130-c4081e35f19a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a1a05b80-fd86-4fbf-b1cf-1dafb66062c1.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/81f31149-9d62-473c-b44b-30a24d91cf1c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f2fd4674-c2f0-4c5b-bc26-bf5175502bfe.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/36e09b20-42d8-4a07-8d8d-b2d4a5a6776c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f7c71c79-0ccb-462b-b88d-4d55ba9c1289.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f6b765b-a334-457a-ac91-9054529c6add.jpg",
+          "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+        ],
+        "nutrition": [
+          {
+            "label": "Energy Per 100 g (kcal)",
+            "value": "232"
+          },
+          {
+            "label": "Protein Per 100 g (g)",
+            "value": "6.89"
+          },
+          {
+            "label": "Total Carbohydrates Per 100 g (g)",
+            "value": "48.48"
+          },
+          {
+            "label": "Total Sugar Per 100 g (g)",
+            "value": "4.93"
+          },
+          {
+            "label": "Added Sugars Per 100 g (g)",
+            "value": "3.81"
+          },
+          {
+            "label": "Total Fat Per 100 g (g)",
+            "value": "0.83"
+          },
+          {
+            "label": "Saturated Fat Per 100 g (g)",
+            "value": "0.24"
+          },
+          {
+            "label": "Monosaturated Fat Per 100 g (g)",
+            "value": "0.17"
+          },
+          {
+            "label": "Polyunsaturated Fat Per 100 g (g)",
+            "value": "0.31"
+          },
+          {
+            "label": "Unsaturated Fat Per 100 g (g)",
+            "value": "0.48"
+          },
+          {
+            "label": "Trans Fat Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Cholesterol Per 100 g (g)",
+            "value": "0"
+          },
+          {
+            "label": "Dietary Fiber Per 100 g (g)",
+            "value": "1.55"
+          },
+          {
+            "label": "Sodium Per 100 g (mg)",
+            "value": "453"
+          }
+        ],
+        "ingredients": null,
+        "description": null,
+        "fssai_license": "10012063000077",
+        "error": null
+      }
+    }
+  ]
+}

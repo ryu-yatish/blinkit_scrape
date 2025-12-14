@@ -104,11 +104,19 @@ def scrape_product_detail(
     try:
         driver = detail.build_driver(headless)
         state = detail.wait_for_preloaded_state(driver, url, timeout)
-        product_name, hero_images, nutrition = detail.extract_product_info(state)
+        (
+            product_name,
+            hero_images,
+            nutrition,
+            text_sections,
+        ) = detail.extract_product_info(state)
         return {
             "detail_name": product_name,
             "hero_images": hero_images,
             "nutrition": nutrition,
+            "ingredients": text_sections.get("ingredients"),
+            "description": text_sections.get("description"),
+            "fssai_license": text_sections.get("fssai_license"),
             "error": None,
         }
     except Exception as exc:  # pylint: disable=broad-except
@@ -116,6 +124,9 @@ def scrape_product_detail(
             "detail_name": None,
             "hero_images": [],
             "nutrition": [],
+            "ingredients": None,
+            "description": None,
+            "fssai_license": None,
             "error": str(exc),
         }
     finally:
@@ -190,6 +201,9 @@ def serialize_product_for_json(product: Dict[str, Any]) -> Dict[str, Any]:
             "detail_name": detail_result.get("detail_name"),
             "hero_images": detail_result.get("hero_images") or [],
             "nutrition": serialize_nutrition_entries(detail_result.get("nutrition")),
+            "ingredients": detail_result.get("ingredients"),
+            "description": detail_result.get("description"),
+            "fssai_license": detail_result.get("fssai_license"),
             "error": detail_result.get("error"),
         },
     }
@@ -230,6 +244,16 @@ def nutrition_pairs_to_dict(
 def build_upload_payload(product: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     detail_result = product["detail"]
     nutrition = nutrition_pairs_to_dict(detail_result.get("nutrition"))
+    ingredients = detail_result.get("ingredients")
+    description = detail_result.get("description")
+    fssai_license = detail_result.get("fssai_license")
+    additional_parts = []
+    if description:
+        additional_parts.append(description)
+    if fssai_license:
+        additional_parts.append(f"FSSAI License: {fssai_license}")
+    additional_text = "\n".join(additional_parts) if additional_parts else None
+
     if not nutrition:
         return None
     return {
@@ -240,12 +264,12 @@ def build_upload_payload(product: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "heroImages": detail_result.get("hero_images") or [],
         "nutrition": nutrition,
         "barcode": None,
-        "ingredients": None,
+        "ingredients": ingredients,
         "servingSize": None,
         "servingsPerPackage": None,
         "storageInfo": None,
         "expiryInfo": None,
-        "additionalText": None,
+        "additionalText": additional_text,
         "useLLM": True,
     }
 
@@ -352,6 +376,9 @@ def run_pipeline(args: argparse.Namespace) -> Path:
                     "detail_name": None,
                     "hero_images": [],
                     "nutrition": [],
+                    "ingredients": None,
+                    "description": None,
+                    "fssai_license": None,
                     "error": "No product link from listing scrape.",
                 }
                 print(

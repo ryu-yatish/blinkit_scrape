@@ -22,7 +22,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
 DEFAULT_PRODUCT_URL = (
-    "https://blinkit.com/prn/yoga-bar-premium-golden-rolled-oats-gluten-free/prid/446211"
+    "https://blinkit.com/prn/suchalis-artisan-bakehouse-multigrain-sandwich-bread/prid/460625"
 )
 DEFAULT_TIMEOUT = 20
 NUTRITION_KEYWORDS = (
@@ -43,6 +43,11 @@ NUTRITION_KEYWORDS = (
     "omega",
     "phosphorus",
 )
+TEXT_SECTION_KEYWORDS = {
+    "ingredients": ("ingredient",),
+    "description": ("description", "about", "product description"),
+    "fssai_license": ("fssai",),
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -267,9 +272,95 @@ def extract_nutrition(pdp: Dict[str, Any]) -> List[Tuple[str, str]]:
     return unique
 
 
+def _collect_section_from_snippets(
+    snippets: Iterable[Any],
+    targets: Dict[str, Tuple[str, ...]],
+    results: Dict[str, Optional[str]],
+) -> None:
+    for snippet in snippets:
+        data = snippet.get("data") if isinstance(snippet, dict) else None
+        if not isinstance(data, dict):
+            continue
+        title = normalize_text(data.get("title"))
+        value = normalize_text(data.get("subtitle")) or normalize_text(
+            data.get("description")
+        )
+        if not title or not value:
+            continue
+
+        title_lower = title.lower()
+        for key, keywords in targets.items():
+            if results.get(key):
+                continue
+            if any(term in title_lower for term in keywords):
+                results[key] = value
+
+
+def extract_text_sections(pdp: Dict[str, Any]) -> Dict[str, Optional[str]]:
+    """Extract free-form text sections such as ingredients/description/FSSAI."""
+    results: Dict[str, Optional[str]] = {key: None for key in TEXT_SECTION_KEYWORDS}
+
+    snippets_to_add = (
+        pdp.get("snippet_list_updater_data", {})
+        .get("expand_attributes", {})
+        .get("payload", {})
+        .get("snippets_to_add")
+    )
+    if isinstance(snippets_to_add, list):
+        _collect_section_from_snippets(snippets_to_add, TEXT_SECTION_KEYWORDS, results)
+
+    snippets = pdp.get("snippets")
+    if isinstance(snippets, list):
+        _collect_section_from_snippets(snippets, TEXT_SECTION_KEYWORDS, results)
+
+    attributes = (
+        pdp.get("tracking", {})
+        .get("le_meta", {})
+        .get("custom_data", {})
+        .get("seo", {})
+        .get("attributes")
+    )
+    if isinstance(attributes, list):
+        for attribute in attributes:
+            if not isinstance(attribute, dict):
+                continue
+            label = attribute.get("name") or attribute.get("attribute_name")
+            value = attribute.get("value")
+
+            if (value is None or not isinstance(value, str) or not value.strip()) and isinstance(
+                attribute.get("value_info"), list
+            ):
+                for entry in attribute["value_info"]:
+                    if not isinstance(entry, dict):
+                        continue
+                    candidate = entry.get("value")
+                    if isinstance(candidate, str) and candidate.strip():
+                        value = candidate
+                        break
+
+            if not isinstance(label, str) or not isinstance(value, str):
+                continue
+
+            label = label.strip()
+            value = value.strip()
+            if not label or not value:
+                continue
+
+            label_lower = label.lower()
+            for key, keywords in TEXT_SECTION_KEYWORDS.items():
+                if results.get(key):
+                    continue
+                if any(term in label_lower for term in keywords):
+                    results[key] = value
+
+    return results
+
+
 def extract_product_info(
     state: Dict[str, Any]
-) -> Tuple[Optional[str], List[str], List[Tuple[str, str]]]:
+) -> Tuple[
+    Optional[str], List[str], List[Tuple[str, str]], Dict[str, Optional[str]]
+]:
     pdp = (
         state.get("ui", {})
         .get("pdp", {})
@@ -312,8 +403,9 @@ def extract_product_info(
             product_name = fallback.strip()
 
     nutrition_entries = extract_nutrition(pdp)
+    text_sections = extract_text_sections(pdp)
 
-    return product_name, image_urls, nutrition_entries
+    return product_name, image_urls, nutrition_entries, text_sections
 
 
 def main() -> int:
@@ -322,11 +414,14 @@ def main() -> int:
     product_name: Optional[str] = None
     image_urls: List[str] = []
     nutrition_entries: List[Tuple[str, str]] = []
+    text_sections: Dict[str, Optional[str]] = {}
 
     try:
         driver = build_driver(args.headless)
         state = wait_for_preloaded_state(driver, args.url, args.timeout)
-        product_name, image_urls, nutrition_entries = extract_product_info(state)
+        product_name, image_urls, nutrition_entries, text_sections = extract_product_info(
+            state
+        )
     except Exception as exc:  # pylint: disable=broad-except
         print(f"Error while scraping: {exc}", file=sys.stderr)
         return 1
@@ -353,6 +448,15 @@ def main() -> int:
             print(f"- {label}: {value}")
     else:
         print("\nNutritional Information: <none found>")
+
+    if any(text_sections.values()):
+        print("\nAdditional Details:")
+        if text_sections.get("ingredients"):
+            print(f"- Ingredients: {text_sections['ingredients']}")
+        if text_sections.get("description"):
+            print(f"- Description: {text_sections['description']}")
+        if text_sections.get("fssai_license"):
+            print(f"- FSSAI License: {text_sections['fssai_license']}")
 
     if not product_name or not image_urls:
         print(
