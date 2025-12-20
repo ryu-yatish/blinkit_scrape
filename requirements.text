@@ -1,0 +1,9 @@
+requests
+pillow
+pyzbar
+google-cloud-vision
+protobuf
+beautifulsoup4
+selenium
+webdriver-manager
+

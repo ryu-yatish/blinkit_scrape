@@ -8,12 +8,19 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
+import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 import requests
+from PIL import Image
+from pyzbar.pyzbar import decode as decode_barcode
+
+import combine_images
+import ocr_image as ocr
 
 import blinkit_products_scraper as listing
 import blinkit_single_product_scraper as detail
@@ -25,6 +32,14 @@ NUTRISNAP_PRODUCTS_NAMES_URL = (
     "https://us-central1-nutrisnap-82709.cloudfunctions.net/api/products/names"
 )
 DEFAULT_OUTPUT_DIR = Path("scrappedData")
+OCR_BATCH_SIZE = 4
+OCR_DOWNLOAD_TIMEOUT = 15
+OCR_BORDER_COLOR = combine_images.parse_hex_color(combine_images.DEFAULT_BORDER_COLOR)
+BARCODE_ALLOWED_TYPES = {
+    "EAN13": "ean-13",
+    "EAN8": "ean-8",
+    "CODABAR": "codabar",
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -78,6 +93,15 @@ def parse_args() -> argparse.Namespace:
         "--dry-run",
         action="store_true",
         help="Fetch everything but skip uploads to the NutriSnap API.",
+    )
+    parser.add_argument(
+        "--ocr-creds",
+        type=Path,
+        default=ocr.DEFAULT_CREDS,
+        help=(
+            "Path to the service-account JSON used for OCR (defaults to the bundled "
+            "Vision API credentials)."
+        ),
     )
     return parser.parse_args()
 
@@ -204,6 +228,8 @@ def serialize_product_for_json(product: Dict[str, Any]) -> Dict[str, Any]:
             "ingredients": detail_result.get("ingredients"),
             "description": detail_result.get("description"),
             "fssai_license": detail_result.get("fssai_license"),
+            "ocr_text": detail_result.get("ocr_text"),
+            "barcode": detail_result.get("barcode"),
             "error": detail_result.get("error"),
         },
     }
@@ -241,17 +267,181 @@ def nutrition_pairs_to_dict(
     return nutrition or None
 
 
+def normalize_ingredients(ingredients: Optional[str]) -> Optional[List[str]]:
+    """
+    Split a free-form ingredients string into a list of ingredients.
+    Preserves order and drops empty tokens. Returns None when no content.
+    """
+    if not ingredients or not isinstance(ingredients, str):
+        return None
+    parts = [part.strip() for part in re.split(r"[,\n;]+", ingredients) if part.strip()]
+    return parts or None
+
+
+def _build_combined_image(image_urls: List[str]) -> Path:
+    """Download four images and stack them vertically into a temp PNG for OCR."""
+    images = [
+        combine_images.download_image(url, timeout=OCR_DOWNLOAD_TIMEOUT)
+        for url in image_urls
+    ]
+    combined = combine_images.stack_vertically(
+        images, combine_images.DEFAULT_BORDER_PX, OCR_BORDER_COLOR
+    )
+
+    # Close the temp file immediately so Windows can reopen it for saving.
+    with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as tmp:
+        combined_path = Path(tmp.name)
+    combined.save(combined_path)
+    return combined_path
+
+
+def _run_single_image_ocr(url: str, creds_path: Path) -> Optional[str]:
+    """Run OCR on a single image URL and return cleaned text."""
+    print(f"Running OCR on {url}")
+    try:
+        full_text, _ = ocr.detect_text_from_url(url, creds_path)
+        cleaned = full_text.strip()
+        print(f"OCR result: {cleaned}")
+        return cleaned or None
+    except Exception as exc:  # pylint: disable=broad-except
+        print(f"  OCR failed for image {url}: {exc}", file=sys.stderr)
+        return None
+
+
+def run_ocr_on_images(image_urls: List[str], creds_path: Path) -> List[str]:
+    """
+    Fetch OCR full text for the provided image URLs.
+
+    - Deduplicates URLs.
+    - Combines images in batches of four to cut OCR calls by ~75%.
+    - Falls back to per-image OCR if batch combination or OCR fails.
+    """
+    texts: List[str] = []
+    seen: Set[str] = set()
+    unique_urls: List[str] = []
+    for url in image_urls:
+        if not url or not isinstance(url, str):
+            continue
+        normalized = url.strip()
+        if not normalized or normalized in seen:
+            continue
+        seen.add(normalized)
+        unique_urls.append(normalized)
+
+    print(f"Running OCR on {len(unique_urls)} unique images")
+
+    idx = 0
+    while idx < len(unique_urls):
+        batch = unique_urls[idx : idx + OCR_BATCH_SIZE]
+
+        # Attempt combined OCR only for full batches of four.
+        if len(batch) == OCR_BATCH_SIZE:
+            print(f"Combining {len(batch)} images for batch OCR:")
+            for b_url in batch:
+                print(f"  - {b_url}")
+            combined_path: Optional[Path] = None
+            try:
+                combined_path = _build_combined_image(batch)
+                full_text, _ = ocr.detect_text(combined_path, creds_path)
+                cleaned = full_text.strip()
+                if cleaned:
+                    texts.append(cleaned)
+                    print("Batch OCR succeeded.")
+                    idx += OCR_BATCH_SIZE
+                    continue
+                print("Batch OCR returned empty text; falling back to single images.")
+            except Exception as exc:  # pylint: disable=broad-except
+                print(
+                    f"  Combined OCR failed for batch starting at {idx}: {exc}",
+                    file=sys.stderr,
+                )
+            finally:
+                if combined_path and combined_path.exists():
+                    try:
+                        combined_path.unlink(missing_ok=True)
+                    except Exception:
+                        pass
+
+        # Fall back to single-image OCR for partial batches or failed combined runs.
+        for url in batch:
+            single_text = _run_single_image_ocr(url, creds_path)
+            if single_text:
+                texts.append(single_text)
+        idx += len(batch)
+
+    return texts
+
+
+def _decode_barcode_from_image(image: Image.Image) -> Optional[str]:
+    """Return the first allowed barcode value found in the image."""
+    try:
+        results = decode_barcode(image.convert("L"))
+    except Exception as exc:  # pylint: disable=broad-except
+        print(f"  Barcode decode failed: {exc}", file=sys.stderr)
+        return None
+
+    for result in results:
+        fmt = result.type
+        if fmt not in BARCODE_ALLOWED_TYPES:
+            continue
+        value = (result.data or b"").decode("utf-8", errors="ignore").strip()
+        if value:
+            return value
+    return None
+
+
+def run_barcode_on_images(image_urls: List[str]) -> Optional[str]:
+    """
+    Attempt to read a single barcode from the provided image URLs.
+
+    Stops at the first valid barcode in allowed formats.
+    """
+    seen: Set[str] = set()
+    for url in image_urls:
+        if not url or not isinstance(url, str):
+            continue
+        normalized = url.strip()
+        if not normalized or normalized in seen:
+            continue
+        seen.add(normalized)
+        print(f"Scanning barcode in {normalized}")
+        try:
+            image = combine_images.download_image(normalized, timeout=OCR_DOWNLOAD_TIMEOUT)
+        except Exception as exc:  # pylint: disable=broad-except
+            print(f"  Failed to download image for barcode: {exc}", file=sys.stderr)
+            continue
+
+        value = _decode_barcode_from_image(image)
+        if value:
+            print(f"  Found barcode: {value}")
+            return value
+
+    print("No allowed barcode found in provided images.")
+    return None
+
+
 def build_upload_payload(product: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     detail_result = product["detail"]
     nutrition = nutrition_pairs_to_dict(detail_result.get("nutrition"))
-    ingredients = detail_result.get("ingredients")
+    ingredients_raw = detail_result.get("ingredients")
+    ingredients_list = normalize_ingredients(ingredients_raw)
     description = detail_result.get("description")
     fssai_license = detail_result.get("fssai_license")
+    ocr_text = detail_result.get("ocr_text")
+    barcode = detail_result.get("barcode")
+    product_link = product.get("product_link")
+    listing_urls = [product_link] if product_link else []
     additional_parts = []
     if description:
         additional_parts.append(description)
+    if ingredients_raw:
+        additional_parts.append(f"Ingredients: {ingredients_raw}")
     if fssai_license:
         additional_parts.append(f"FSSAI License: {fssai_license}")
+    if ocr_text:
+        additional_parts.append(f"OCR Text:\n{ocr_text}")
+    if barcode:
+        additional_parts.append(f"Barcode: {barcode}")
     additional_text = "\n".join(additional_parts) if additional_parts else None
 
     if not nutrition:
@@ -261,16 +451,19 @@ def build_upload_payload(product: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "detailName": detail_result.get("detail_name"),
         "listingImage": product.get("listing_image"),
         "productLink": product.get("product_link"),
+        "listingUrls": listing_urls,
         "heroImages": detail_result.get("hero_images") or [],
         "nutrition": nutrition,
-        "barcode": None,
-        "ingredients": ingredients,
+        "barcode": barcode,
+        "ingredients": ingredients_list,
+        "description": description,
+        "fssaiId": fssai_license,
         "servingSize": None,
         "servingsPerPackage": None,
         "storageInfo": None,
         "expiryInfo": None,
         "additionalText": additional_text,
-        "useLLM": True,
+        "use_llm": True,
     }
 
 
@@ -320,7 +513,7 @@ def upload_product_to_nutrisnap(
         return False
     try:
         response = session.post(
-            NUTRISNAP_UPLOAD_URL, json=payload, timeout=20  # seconds
+            NUTRISNAP_UPLOAD_URL, json=payload, timeout=200  # seconds
         )
         response.raise_for_status()
         print(
@@ -353,6 +546,7 @@ def run_pipeline(args: argparse.Namespace) -> Path:
         products = products[: max(args.max_products, 0)]
 
     combined_results: List[Dict[str, Any]] = []
+    ocr_creds_path = args.ocr_creds.expanduser().resolve()
     with requests.Session() as session:
         existing_names = fetch_existing_product_names(session)
         print(
@@ -392,6 +586,22 @@ def run_pipeline(args: argparse.Namespace) -> Path:
                 "product_link": link,
                 "detail": detail_data,
             }
+            if product_exists_in_registry(product_record, existing_names):
+                print("  Skipping OCR and upload; product already exists in NutriSnap.")
+                combined_results.append(product_record)
+                continue
+
+            image_urls: List[str] = []
+            if image:
+                image_urls.append(image)
+            image_urls.extend(detail_data.get("hero_images") or [])
+            barcode_value = run_barcode_on_images(image_urls)
+            ocr_texts = run_ocr_on_images(image_urls, ocr_creds_path)
+            if ocr_texts:
+                detail_data["ocr_text"] = "\n\n".join(ocr_texts)
+            if barcode_value:
+                detail_data["barcode"] = barcode_value
+
             combined_results.append(product_record)
             upload_product_to_nutrisnap(
                 product_record, session, existing_names, args.dry_run
