@@ -1,4 +1,7 @@
 nutrisnap-82709-firebase-adminsdk-fbsvc-48a3722abf.json
 delete_products.py
-barcode_test.py
 scrappedData/*
+*.txt
+.env
+*.env
+candidate_clusters.json
