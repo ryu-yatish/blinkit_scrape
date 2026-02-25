@@ -18,9 +18,11 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 import requests
 from PIL import Image
 from pyzbar.pyzbar import decode as decode_barcode
+from selenium import webdriver
 
 import combine_images
 import ocr_image as ocr
+from open_in_chromium import BLINKIT_LOCATIONS, set_blinkit_location
 
 import blinkit_products_scraper as listing
 import blinkit_single_product_scraper as detail
@@ -103,16 +105,39 @@ def parse_args() -> argparse.Namespace:
             "Vision API credentials)."
         ),
     )
+    parser.add_argument(
+        "--location",
+        "-l",
+        default=None,
+        help=(
+            "Blinkit delivery location to inject into localStorage. "
+            f"Presets: {', '.join(BLINKIT_LOCATIONS)}. Or pass raw JSON."
+        ),
+    )
     return parser.parse_args()
 
 
+BLINKIT_ORIGIN = "https://blinkit.com"
+
+
+def prime_blinkit_location(
+    driver: webdriver.Chrome, location: Optional[str]
+) -> None:
+    """Navigate to the Blinkit origin and inject a location into localStorage."""
+    if not location:
+        return
+    driver.get(BLINKIT_ORIGIN)
+    set_blinkit_location(driver, location)
+
+
 def scrape_listing(
-    target: str, headless: bool, timeout: int
+    target: str, headless: bool, timeout: int, location: Optional[str] = None
 ) -> Tuple[str, List[Tuple[str, str, Optional[str]]], Dict[str, Any]]:
     normalized = listing.normalize_target(target)
     driver: Optional[listing.webdriver.Chrome] = None
     try:
         driver = listing.build_driver(headless)
+        prime_blinkit_location(driver, location)
         html = listing.fetch_page_source(driver, normalized, timeout)
         products, diagnostics = listing.extract_products(html, normalized)
     finally:
@@ -122,11 +147,12 @@ def scrape_listing(
 
 
 def scrape_product_detail(
-    url: str, headless: bool, timeout: int
+    url: str, headless: bool, timeout: int, location: Optional[str] = None
 ) -> Dict[str, Any]:
     driver: Optional[detail.webdriver.Chrome] = None
     try:
         driver = detail.build_driver(headless)
+        prime_blinkit_location(driver, location)
         state = detail.wait_for_preloaded_state(driver, url, timeout)
         (
             product_name,
@@ -534,7 +560,7 @@ def upload_product_to_nutrisnap(
 
 def run_pipeline(args: argparse.Namespace) -> Path:
     listing_target, products, diagnostics = scrape_listing(
-        args.list_url, args.headless, args.listing_timeout
+        args.list_url, args.headless, args.listing_timeout, args.location
     )
     if not products:
         raise RuntimeError(
@@ -558,7 +584,7 @@ def run_pipeline(args: argparse.Namespace) -> Path:
             if link:
                 print(f"  Fetching detail page: {link}")
                 detail_data = scrape_product_detail(
-                    link, args.headless, args.product_timeout
+                    link, args.headless, args.product_timeout, args.location
                 )
                 if detail_data["error"]:
                     print(
